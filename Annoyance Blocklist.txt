@@ -1,3 +1,6 @@
+! Title: Stevo's Annoyance Blocklist
+! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
+
 # Join button (Not ai)
 www.youtube.com###sponsor-button
 # Promotions tab (paid promotion)
