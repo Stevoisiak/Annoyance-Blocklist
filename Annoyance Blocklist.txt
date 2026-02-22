@@ -1,9 +1,15 @@
 ! Title: Stevo's Annoyance Blocklist
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
-# Join button (Not ai)
+! == Manga Planet ==
+mangaplanet.com##.js-cookie-consent
+
+! == YouTube ==
+! Join button (Not ai)
 www.youtube.com###sponsor-button
-# Promotions tab (paid promotion)
+
+! == YouTube Studio ==
+! Promotions tab (paid promotion)
 studio.youtube.com###content-list-promotions-tab
-# "Promote" button in video action menu 
+! "Promote" button in video action menu 
 studio.youtube.com##tp-yt-paper-item[test-id="promote"]
