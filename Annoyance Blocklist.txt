@@ -7,6 +7,8 @@ mangaplanet.com##.js-cookie-consent
 ! == PCGamer ==
 ! Social media buttons
 www.pcgamer.com##[data-testid="buttons-social"]
+! "Add as a preferred source on Google"
+www.pcgamer.com##a[href="https://google.com/preferences/source?q=pcgamer.com"]:has(> picture)
 
 ! == YouTube ==
 ! Join button
