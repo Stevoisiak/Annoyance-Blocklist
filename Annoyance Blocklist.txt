@@ -4,11 +4,15 @@
 ! == Manga Planet ==
 mangaplanet.com##.js-cookie-consent
 
-! == PCGamer ==
+! == PC Gamer ==
 ! Social media buttons
 www.pcgamer.com##[data-testid="buttons-social"]
 ! "Add as a preferred source on Google"
 www.pcgamer.com##a[href="https://google.com/preferences/source?q=pcgamer.com"]:has(> picture)
+
+! == Reddit ==
+! Button to buy ads in header bar
+www.reddit.com##[data-part="advertise"]
 
 ! == YouTube ==
 ! Join button
