@@ -4,8 +4,12 @@
 ! == Manga Planet ==
 mangaplanet.com##.js-cookie-consent
 
+! == PCGamer ==
+! Social media buttons
+www.pcgamer.com##[data-testid="buttons-social"]
+
 ! == YouTube ==
-! Join button (Not ai)
+! Join button
 www.youtube.com###sponsor-button
 
 ! == YouTube Studio ==
