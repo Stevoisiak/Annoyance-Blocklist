@@ -14,6 +14,10 @@ www.pcgamer.com##a[href="https://google.com/preferences/source?q=pcgamer.com"]:h
 ! Button to buy ads in header bar
 www.reddit.com##[data-part="advertise"]
 
+! == X ==
+! Premium tab in sidebar
+x.com##[data-testid="premium-signup-tab"]
+
 ! == YouTube ==
 ! Join button
 www.youtube.com###sponsor-button
