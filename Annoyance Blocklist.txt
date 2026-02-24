@@ -23,3 +23,5 @@ www.youtube.com###sponsor-button
 studio.youtube.com###content-list-promotions-tab
 ! "Promote" button in video action menu 
 studio.youtube.com##tp-yt-paper-item[test-id="promote"]
+! Social media sharing icons after making video public
+studio.youtube.com##.yt-third-party-share-target-section-renderer
