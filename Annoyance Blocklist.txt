@@ -1,6 +1,11 @@
 ! Title: Stevo's Annoyance Blocklist
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
+! == Google ==
+! -- https://www.google.com/
+! Announcement for Trump's state of the union
+www.google.com##.yp:has-text("Trump")
+
 ! == Manga Planet ==
 mangaplanet.com##.js-cookie-consent
 
