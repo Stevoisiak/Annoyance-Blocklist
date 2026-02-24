@@ -25,3 +25,5 @@ studio.youtube.com###content-list-promotions-tab
 studio.youtube.com##tp-yt-paper-item[test-id="promote"]
 ! Social media sharing icons after making video public
 studio.youtube.com##.yt-third-party-share-target-section-renderer
+! Shopping button in video descriptions
+studio.youtube.com##ytshopping-description-button
