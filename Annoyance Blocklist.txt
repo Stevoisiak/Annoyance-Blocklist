@@ -22,6 +22,9 @@ www.reddit.com##[data-part="advertise"]
 ! == X ==
 ! Premium tab in sidebar
 x.com##[data-testid="premium-signup-tab"]
+! -- Profile page
+! "You aren't verified yet" promo for Premium
+x.com##[data-testid="verified_profile_visitor_upsell"]
 
 ! == YouTube ==
 ! Join button
