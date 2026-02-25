@@ -24,6 +24,10 @@ www.pcgamer.com##a[href="https://google.com/preferences/source?q=pcgamer.com"]:h
 ! Button to buy ads in header bar
 www.reddit.com##[data-part="advertise"]
 
+! == WierdJapan (NSFW) ==
+! Ad below video player
+wierdjapan.com##.under-player-banner
+
 ! == X ==
 ! Premium tab in sidebar
 x.com##[data-testid="premium-signup-tab"]
