@@ -1,6 +1,11 @@
 ! Title: Stevo's Annoyance Blocklist
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
+! == eBay ==
+! -- https://www.ebay.com/
+! Social media links in footer
+www.ebay.com##.gf-big-links__col-group:has(.gf-big-links__list-item-icon[href="https://www.facebook.com/ebay/"])
+
 ! == Google ==
 ! -- https://www.google.com/
 ! Announcement for Trump's state of the union
