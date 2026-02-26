@@ -11,9 +11,6 @@ www.ebay.com##.gf-big-links__col-group:has(.gf-big-links__list-item-icon[href="h
 ! Announcement for Trump's state of the union
 www.google.com##.yp:has-text("Trump")
 
-! == Manga Planet ==
-mangaplanet.com##.js-cookie-consent
-
 ! == PC Gamer ==
 ! Social media buttons
 www.pcgamer.com##[data-testid="buttons-social"]
