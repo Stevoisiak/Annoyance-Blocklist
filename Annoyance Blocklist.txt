@@ -27,6 +27,11 @@ www.reddit.com##[data-part="advertise"]
 ! Button to promote post
 www.reddit.com##[name="promote-post-button"]
 
+! == Stack Overflow ==
+! -- https://stackoverflow.com/
+! "Try new site" button
+stackoverflow.com##.js-beta-link
+
 ! == X ==
 ! Premium tab in sidebar
 x.com##[data-testid="premium-signup-tab"]
