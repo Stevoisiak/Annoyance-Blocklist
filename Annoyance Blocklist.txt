@@ -33,6 +33,18 @@ wsdk.rokt.com##.outer-css-1f0rc8g:has-text("Your sign up unlocked these special 
 ! -- https://stackoverflow.com/
 ! "Try new site" button
 stackoverflow.com##.js-beta-link
+! "The Overflow Blog" in right sidebar
+! While not every post is AI-related, the vast majority are
+stackoverflow.com##.s-sidebarwidget:has(> #overflow-blog-items)
+
+! -- https://stackoverflow.com/questions (Questions page)
+! "The Overflow Blog" in right sidebar
+! * Blog posts identified based on the pencil icon.
+! * We filter first because it's fast, then :remove() to avoid an extra yellow outline where the blog used to be
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--header:has-text("The Overflow Blog")
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--header:has-text("The Overflow Blog"):remove()
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(svg.iconPencilSm)
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(svg.iconPencilSm):remove()
 
 ! == X ==
 ! Premium tab in sidebar
