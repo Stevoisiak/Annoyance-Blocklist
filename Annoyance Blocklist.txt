@@ -24,6 +24,11 @@ www.reddit.com##[data-part="advertise"]
 ! Button to promote post
 www.reddit.com##[name="promote-post-button"]
 
+! == SignUpGenius ==
+! Popup after signing up to an offer
+! * Untested. Trying this filter would require signing up to another event.
+wsdk.rokt.com##.outer-css-1f0rc8g:has-text("Your sign up unlocked these special offers")
+
 ! == Stack Overflow ==
 ! -- https://stackoverflow.com/
 ! "Try new site" button
