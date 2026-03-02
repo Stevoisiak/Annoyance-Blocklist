@@ -23,6 +23,8 @@ www.reddit.com##[data-part="advertise"]
 ! -- https://www.reddit.com/r/uBlockOrigin/comments/1rf07fv/comment/o7ieadp/ 
 ! Button to promote post
 www.reddit.com##[name="promote-post-button"]
+! Menu item to promote post in (...)
+www.reddit.com###post-overflow-promotePost
 
 ! == SignUpGenius ==
 ! Popup after signing up to an offer
