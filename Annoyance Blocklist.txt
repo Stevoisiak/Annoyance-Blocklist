@@ -58,6 +58,9 @@ x.com##[data-testid="verified_profile_visitor_upsell"]
 ! == YouTube ==
 ! Join button
 www.youtube.com###sponsor-button
+! -- https://www.youtube.com/shorts/U_FXH1aS058
+! Search "x" on youtube shorts
+www.youtube.com##yt-shorts-suggested-action-view-model
 
 ! == YouTube Studio ==
 ! Promotions tab (paid promotion)
