@@ -6,6 +6,11 @@
 ! Social media links in footer
 www.ebay.com##.gf-big-links__col-group:has(.gf-big-links__list-item-icon[href="https://www.facebook.com/ebay/"])
 
+! == GA4 ==
+! -- https://ga4.com/
+! Chat widget
+ga4.com##button:has(> [alt="Chat"])
+
 ! == Google ==
 ! -- https://www.google.com/
 ! Announcement for Trump's state of the union
