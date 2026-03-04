@@ -53,8 +53,12 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(svg.iconPencilSm):remove()
 
 ! == X ==
-! Premium tab in sidebar
+! -- https://x.com/home
+! "Premium" tab in left sidebar 
 x.com##[data-testid="premium-signup-tab"]
+! "Subscribe to Premium" promo in right sidebar
+x.com##.css-175oi2r:has(> .r-1ifxtd0 > [aria-label="Subscribe to Premium"])
+
 ! -- Profile page
 ! "You aren't verified yet" promo for Premium
 x.com##[data-testid="verified_profile_visitor_upsell"]
