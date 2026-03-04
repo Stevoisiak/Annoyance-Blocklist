@@ -16,6 +16,10 @@ ga4.com##button:has(> [alt="Chat"])
 ! Announcement for Trump's state of the union
 www.google.com##.yp:has-text("Trump")
 
+! == Gooogle Support ==
+! "How satisifed are you" rating survey
+support.google.com###google-hats-survey
+
 ! == Hentai2Read (NSFW) ==
 ! -- Ad entries in manga list
 hentai2read.com##.book-grid > div:has(> [data-mid="1"])
