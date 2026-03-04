@@ -11,7 +11,15 @@ www.ebay.com##.gf-big-links__col-group:has(.gf-big-links__list-item-icon[href="h
 ! Chat widget
 ga4.com##button:has(> [alt="Chat"])
 
-! == Google ==
+! == Google Analytics ==
+! -- Home tab
+! "Upsell" card under "Insights & reccomendations"
+analytics.google.com##gold-insights-card-wrapper:has(.insight-type-name:has-text("Upsell"))
+! -- Reports tab
+! "Upsell" items under "Insights"
+analytics.google.com##interactive-list-item:has(.insight-type-name:has-text("Upsell"))
+
+! == Google Search ==
 ! -- https://www.google.com/
 ! Announcement for Trump's state of the union
 www.google.com##.yp:has-text("Trump")
