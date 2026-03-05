@@ -28,6 +28,11 @@ www.google.com##.yp:has-text("Trump")
 ! "How satisifed are you" rating survey
 support.google.com###google-hats-survey
 
+! == Healio ==
+! -- https://www.healio.com/
+! Terms & Conditions banner
+www.healio.com###healio-consent-overlay
+
 ! == Hentai2Read (NSFW) ==
 ! -- Ad entries in manga list
 hentai2read.com##.book-grid > div:has(> [data-mid="1"])
