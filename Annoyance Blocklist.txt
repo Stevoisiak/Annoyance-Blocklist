@@ -6,10 +6,6 @@
 ! Social media links in footer
 www.ebay.com##.gf-big-links__col-group:has(.gf-big-links__list-item-icon[href="https://www.facebook.com/ebay/"])
 
-! == e612 ==
-! Replace "sort:" with "order:" in searches (requires trust)
-||e621.net^$uritransform=/sort%3A/order%3A/
-
 ! == GA4 ==
 ! -- https://ga4.com/
 ! Chat widget
@@ -105,3 +101,12 @@ studio.youtube.com##tp-yt-paper-item[test-id="promote"]
 studio.youtube.com##.yt-third-party-share-target-section-renderer
 ! Shopping button in video descriptions
 studio.youtube.com##ytshopping-description-button
+
+! == Boorus (NSFW) ==
+! Replace "sort:" with "order:" (and vice-versa) in searches (requires trust)
+||e621.net^$uritransform=/sort%3A/order%3A/
+||donmai.us^$uritransform=/sort%3A/order%3A/
+||gelbooru.com^$uritransform=/order%3a/sort%3a/
+||rule34.xxx^$uritransform=/order%3a/sort%3a/
+||safebooru.org^$uritransform=/order%3a/sort%3a/
+
