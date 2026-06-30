@@ -11,6 +11,9 @@ discord.com##.channel__972a0:has([href="/quest-home"])
 ! Trending Repositories
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
 
+! == Gizmodo ==
+gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocurrencies"]
+
 ! == Insight Software ==
 ! Override AI chat filter from Stevo's AI Blocklist
 central.insightsoftware.com#@##forethought-chat
