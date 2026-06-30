@@ -42,6 +42,8 @@ www.reddit.com##ul:has(> [noun="advertise"]) + hr
 ! Header
 stackoverflow.com##li:has(> [aria-controls="products-popover"])
 stackoverflow.com##li:has(> [href="https://stackoverflow.co/internal/"] > [data-text="Stack Internal"])
+! Header - Review activity indicator dot
+askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###review-button > .s-activity-indicator__danger
 ! Left sidebar
 stackoverflow.com###nav-staging-ground
 ! The Overflow Blog
