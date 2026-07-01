@@ -64,7 +64,15 @@ x.com##[data-testid="premium-signup-tab"]
 x.com##.css-175oi2r:has(> .css-175oi2r > [aria-label="Subscribe to Premium"])
 
 ! == YouTube Studio ==
-! Content Tab
+! -- Dashboard
+! Fireworks for 1 of 10 video
+!#if ext_ublock
+studio.youtube.com##.celebration:remove-class(celebration)
+!#else
+studio.youtube.com#%#//scriptlet('remove-class', 'celebration')
+!#endif
+! -- Content
 studio.youtube.com###podcast-list-tab
 studio.youtube.com###courses-list-tab
 studio.youtube.com###content-list-promotions-tab
+
