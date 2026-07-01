@@ -19,6 +19,8 @@ gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocu
 central.insightsoftware.com#@##forethought-chat
 
 ! == PC Gamer ==
+! "Join The Club" header banner
+www.pcgamer.com##.custom-widget-membership
 ! Mid-artcle polls
 www.pcgamer.com##.kwizly-game-wrapper
 
