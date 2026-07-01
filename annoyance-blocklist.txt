@@ -40,6 +40,9 @@ www.reddit.com##[source="earn"]
 www.reddit.com##[noun="premium_menu"]
 www.reddit.com##ul:has(> [noun="advertise"])
 www.reddit.com##ul:has(> [noun="advertise"]) + hr
+! -- https://www.reddit.com/r/uBlockOrigin/comments/1rf07fv/i_made_a_filterlist_to_block_generative_ai/
+! Promote post button
+www.reddit.com##[slot="promote-post-button"]
 
 ! == Stack Overflow ==
 ! Header
