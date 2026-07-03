@@ -7,6 +7,10 @@ discord.com##.channel__972a0:has([href="/store"])
 discord.com##.channel__972a0:has([href="/shop"])
 discord.com##.channel__972a0:has([href="/quest-home"])
 
+! == Gelbooru ==
+! Homepage streamer promo
+gelbooru.com##center:has(> [href="https://twitch.tv/nyudachi"])
+
 ! == GitHub ==
 ! Trending Repositories
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
