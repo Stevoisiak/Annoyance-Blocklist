@@ -72,6 +72,10 @@ x.com##[data-testid="premium-signup-tab"]
 ! Right sidebar - Subscribe to Premium
 x.com##.css-175oi2r:has(> .css-175oi2r > [aria-label="Subscribe to Premium"])
 
+! == YouTube ==
+! Playables
+www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
+
 ! == YouTube Studio ==
 ! -- Dashboard
 ! Fireworks for 1 of 10 video
