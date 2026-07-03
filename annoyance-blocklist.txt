@@ -79,6 +79,8 @@ x.com##.css-175oi2r:has(> .css-175oi2r > [aria-label="Subscribe to Premium"])
 ! == YouTube ==
 ! Playables
 www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
+! Livestream - Chat top fans
+www.youtube.com###viewer-leaderboard-entry-point
 
 ! == YouTube Studio ==
 ! -- Dashboard
