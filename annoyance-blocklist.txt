@@ -83,6 +83,9 @@ www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
 www.youtube.com###viewer-leaderboard-entry-point
 
 ! == YouTube Studio ==
+! -- Create stream
+! Notice when monetization is disabled
+studio.youtube.com###monetization-callout
 ! -- Dashboard
 ! Fireworks for 1 of 10 video
 !#if ext_ublock
