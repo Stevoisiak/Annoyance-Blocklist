@@ -54,6 +54,10 @@ www.reddit.com##ul:has(> [noun="advertise"]) + hr
 ! Promote post button
 www.reddit.com##[slot="promote-post-button"]
 
+! == Rule 34 ==
+! Shirt promo banner
+rule34.xxx##.horizontalFlexWithMargins:has(img[src="https://rule34.xxx/images/rule34_merch.jpg"])
+
 ! == Stack Overflow ==
 ! Header
 stackoverflow.com##li:has(> [aria-controls="products-popover"])
