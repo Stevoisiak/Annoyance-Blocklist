@@ -1,6 +1,9 @@
 ! Title: Stevo's Annoyance Blocklist
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
+! Google preferred source
+##[href^="https://google.com/preferences/source?q="]
+
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
 discord.com##.channel__972a0:has([href="/store"])
