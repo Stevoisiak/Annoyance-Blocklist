@@ -4,6 +4,11 @@
 ! Google preferred source
 ##[href^="https://google.com/preferences/source?q="]
 
+! == Analytics Mania ==
+! Newsletter
+www.analyticsmania.com##form[action$="/subscriptions"]
+www.analyticsmania.com##[data-formkit-toggle]
+
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
 discord.com##.channel__972a0:has([href="/store"])
