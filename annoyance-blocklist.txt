@@ -18,6 +18,12 @@ discord.com##.channel__972a0:has([href="/quest-home"])
 ! == Gelbooru ==
 ! Homepage streamer promo
 gelbooru.com##center:has(> [href="https://twitch.tv/nyudachi"])
+! Rule34 promo
+gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
+! Author fanbox
+gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"]
+gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"] + br
+gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"] + br + br
 
 ! == GitHub ==
 ! Trending Repositories
