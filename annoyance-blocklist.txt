@@ -44,6 +44,12 @@ gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocu
 ! Override AI chat filter from Stevo's AI Blocklist
 central.insightsoftware.com#@##forethought-chat
 
+! == M365 Copilot ==
+! Upgrade button in left sidebar
+m365.cloud.microsoft##.___1qpkefa:has([data-testid="upgrade-copilot"])
+! Upsell at bottom of AI response
+m365.cloud.microsoft##[data-testid="copilot-message-div"] > .___1ce2hhi:has-text("Get help with all your work")
+
 ! == PC Gamer ==
 ! "Join The Club" header banner
 www.pcgamer.com##.custom-widget-membership
