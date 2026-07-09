@@ -125,6 +125,10 @@ www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
 ! Livestream - Chat top fans
 www.youtube.com###viewer-leaderboard-entry-point
 
+! -- https://www.youtube.com/watch?v=lLWEXRAnQd0
+! Quiz below video description
+www.youtube.com###teaser-carousel:has([aria-label="Quizzes"])
+
 ! == YouTube Studio ==
 ! -- Create stream
 ! Notice when monetization is disabled
