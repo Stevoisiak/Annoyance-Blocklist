@@ -28,6 +28,7 @@ discord.com##.channel__972a0:has([href="/quest-home"])
 gelbooru.com##center:has(> [href="https://twitch.tv/nyudachi"])
 ! Rule34 promo
 gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
+||video-cdn4.gelbooru.com/r34.mp4$media,1p
 ! Author fanbox
 gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"]
 gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"] + br
