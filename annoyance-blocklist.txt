@@ -55,6 +55,10 @@ m365.cloud.microsoft##.___1qpkefa:has([data-testid="upgrade-copilot"])
 ! Upsell at bottom of AI response
 m365.cloud.microsoft##[data-testid="copilot-message-div"] > .___1ce2hhi:has-text("Get help with all your work")
 
+! == nhentai ==
+! Shirt ad on gallery page
+nhentai.net##.kurohebi-slot
+
 ! == PC Gamer ==
 ! "Join The Club" header banner
 www.pcgamer.com##.custom-widget-membership
