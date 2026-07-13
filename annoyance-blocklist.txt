@@ -27,6 +27,8 @@ discord.com##.channel__972a0:has([href="/quest-home"])
 ! == Gelbooru ==
 ! Homepage streamer promo
 gelbooru.com##center:has(> [href="https://twitch.tv/nyudachi"])
+! Sticky banner about popunder ads
+gelbooru.com###motd[style="background: #a43535; color: #fff; padding: 10px; font-size: 11px;"]
 ! Rule34 promo
 gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
 ||video-cdn4.gelbooru.com/r34.mp4$media,1p
