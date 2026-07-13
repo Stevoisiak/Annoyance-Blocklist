@@ -105,6 +105,8 @@ www.reddit.com###post-overflow-brandAffiliate
 ! -- https://www.reddit.com/user/Stevoisiak/
 ! Promote button below post
 www.reddit.com##[name="PromotePostButton_PromB1"]
+! Sidebar - Settings
+www.reddit.com##.profile-settings-item:has([href="/avatar"])
 
 ! == Rule 34 ==
 ! Shirt promo banner
