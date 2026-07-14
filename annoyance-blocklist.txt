@@ -94,6 +94,9 @@ www.reddit.com##[source="earn"]
 www.reddit.com##[noun="premium_menu"]
 www.reddit.com##ul:has(> [noun="advertise"])
 www.reddit.com##ul:has(> [noun="advertise"]) + hr
+! Search bar autocomplete - Trending stories
+www.reddit.com###reddit-trending-searches-partial-container > div > #section_0_pipeline_1_trending_query
+www.reddit.com###reddit-trending-searches-partial-container > div > li
 
 ! -- https://www.reddit.com/r/uBlockOrigin/comments/1rf07fv/i_made_a_filterlist_to_block_generative_ai/
 ! Promote post button
