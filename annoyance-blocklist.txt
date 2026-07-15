@@ -104,6 +104,8 @@ www.reddit.com##[slot="promote-post-button"]
 ! ... menu options
 www.reddit.com###post-overflow-promotePost
 www.reddit.com###post-overflow-brandAffiliate
+! Crosspost dialog after submitting post
+www.reddit.com###nudge-to-crosspost-dialog
 
 ! -- https://www.reddit.com/user/Stevoisiak/
 ! Promote button below post
