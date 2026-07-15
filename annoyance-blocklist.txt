@@ -47,6 +47,7 @@ gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocu
 ! == Google ==
 ! Upgrade button
 calendar.google.com##.nn5oJc:has([aria-label="Upgrade"])
+docs.google.com###workspace-onegoogle-pep-container
 
 ! == How-To Geek ==
 ! Quiz
