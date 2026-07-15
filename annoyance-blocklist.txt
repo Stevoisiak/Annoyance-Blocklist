@@ -172,4 +172,6 @@ studio.youtube.com#%#//scriptlet('remove-class', 'celebration')
 studio.youtube.com###podcast-list-tab
 studio.youtube.com###courses-list-tab
 studio.youtube.com###content-list-promotions-tab
-
+! -- Video upload screen
+! Add Quizzes
+studio.youtube.com##ytcp-uploads-video-element:has(#posts-button)
