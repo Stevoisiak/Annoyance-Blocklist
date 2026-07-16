@@ -5,6 +5,11 @@
 ! Google preferred source
 ##[href^="https://google.com/preferences/source?q="]
 
+! == Apache Airflow ==
+! Undismissable header banner for airflow summit
+airflow.apache.org##header > [href="https://airflowsummit.org"]
+airflow.apache.org##header:has(> [href="https://airflowsummit.org"]) > nav:style(top: 0px !important)
+
 ! == Analytics Mania ==
 ! Newsletter
 www.analyticsmania.com##form[action$="/subscriptions"]
