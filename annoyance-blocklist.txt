@@ -76,7 +76,7 @@ nhentai.net##.kurohebi-slot
 ! "Join The Club" header banner
 www.pcgamer.com##.custom-widget-membership
 ! Mid-artcle polls
-www.pcgamer.com##.kwizly-game-wrapper
+www.gamesradar.com,www.pcgamer.com##.kwizly-game-wrapper
 
 ! == Quicken ==
 ! -- https://www.quicken.com/support/error-102-while-adding-account-quicken-mac/
