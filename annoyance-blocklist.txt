@@ -144,6 +144,11 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(.iconPencilSm)
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(.iconPencilSm) + .s-sidebarwidget--header:style(border-top-width: 0 !important)
 
+! == SQL Server Tutorial ==
+! Ads
+www.sqlservertutorial.net##.ad
+www.sqlservertutorial.net##[aria-label="Advertisement"]
+
 ! == X/Twitter ==
 ! Left sidebar
 x.com##[href="/i/jf/creators/studio"][aria-label="Creator Studio"]
