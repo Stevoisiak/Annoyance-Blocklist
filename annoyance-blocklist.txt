@@ -182,5 +182,7 @@ studio.youtube.com###content-list-promotions-tab
 studio.youtube.com###product_tagging
 ! Add Quizzes
 studio.youtube.com##ytcp-uploads-video-element:has(#posts-button)
+! Tag products
+studio.youtube.com##ytshopping-uploads-video-elements-entry-point
 ! Promote this video
 studio.youtube.com##.promote-after-upload
