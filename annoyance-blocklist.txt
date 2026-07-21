@@ -29,6 +29,11 @@ discord.com##.channel__972a0:has([href="/store"])
 discord.com##.channel__972a0:has([href="/shop"])
 discord.com##.channel__972a0:has([href="/quest-home"])
 
+== Facebook ==
+! Left sidebar - Meta Quest 3s
+www.facebook.com##[role="link"][href^="https://www.meta.com/quest/quest-3s/?utm_source=fb&utm_medium=growth&utm_campaign=fb-bookmark"]
+www.facebook.com##[role="link"][href^="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2Fquest-3s%2F%3Futm_source%3Dfb%26"]
+
 ! == Gelbooru ==
 ! Homepage streamer promo
 gelbooru.com##center:has(> [href="https://twitch.tv/nyudachi"])
