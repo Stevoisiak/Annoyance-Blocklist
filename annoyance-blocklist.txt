@@ -43,9 +43,9 @@ gelbooru.com###motd[style="background: #a43535; color: #fff; padding: 10px; font
 gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
 ||gelbooru.com/r34.mp4$media,1p
 ! Author fanbox
-gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"]
-gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"] + br
-gelbooru.com##.mainBodyPadding > [href="https://borntodie.fanbox.cc/"] + br + br
+gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"])
+gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br
+gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 
 ! == GitHub ==
 ! Trending Repositories
