@@ -4,6 +4,8 @@
 
 ! Google preferred source
 ##[href^="https://google.com/preferences/source?q="]
+! Mid-artcle polls
+www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 
 ! == Apache Airflow ==
 ! Undismissable header banner for airflow summit
@@ -80,8 +82,6 @@ nhentai.net##.kurohebi-slot
 ! == PC Gamer ==
 ! "Join The Club" header banner
 www.pcgamer.com##.custom-widget-membership
-! Mid-artcle polls
-www.gamesradar.com,www.pcgamer.com##.kwizly-game-wrapper
 
 ! == Quicken ==
 ! -- https://www.quicken.com/support/error-102-while-adding-account-quicken-mac/
