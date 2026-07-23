@@ -88,6 +88,11 @@ www.gamesradar.com,www.pcgamer.com##.kwizly-game-wrapper
 ! Was this article helpful?
 www.quicken.com##.quicken-feedback-form
 
+! == Pureinfotech ==
+! -- https://pureinfotech.com/set-default-distro-wsl2-windows-10/
+! Social media buttons
+pureinfotech.com##.share-buttons
+
 ! == Reddit ==
 ! Left sidebar
 www.reddit.com##[noun="games_drawer"]
