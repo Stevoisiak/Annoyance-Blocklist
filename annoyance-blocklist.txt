@@ -154,6 +154,11 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 www.sqlservertutorial.net##.ad
 www.sqlservertutorial.net##[aria-label="Advertisement"]
 
+! == Udemy ==
+! -- https://www.udemy.com/
+! Subscription promo (logged in)
+www.udemy.co##[data-testid="pp-upsell-banner"]
+
 ! == X/Twitter ==
 ! Left sidebar
 x.com##[href="/i/jf/creators/studio"][aria-label="Creator Studio"]
