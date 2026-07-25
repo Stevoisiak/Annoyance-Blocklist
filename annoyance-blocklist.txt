@@ -114,6 +114,11 @@ www.reddit.com##ul:has(> [noun="advertise"]) + hr
 www.reddit.com###reddit-trending-searches-partial-container > div > #section_0_pipeline_1_trending_query
 www.reddit.com###reddit-trending-searches-partial-container > div > li
 
+! -- https://www.reddit.com/?feed=home
+! Home feed posts mentioning trump
+www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="donald trump"i])
+www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="donald trump"i]) + hr
+
 ! -- https://www.reddit.com/r/uBlockOrigin/comments/1rf07fv/i_made_a_filterlist_to_block_generative_ai/
 ! Promote post button
 www.reddit.com##[slot="promote-post-button"]
