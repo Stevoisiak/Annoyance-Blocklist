@@ -116,8 +116,8 @@ www.reddit.com###reddit-trending-searches-partial-container > div > li
 
 ! -- https://www.reddit.com/?feed=home
 ! Home feed posts mentioning trump
-www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="donald trump"i])
-www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="donald trump"i]) + hr
+www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="Trump"])
+www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="Trump"]) + hr
 
 ! -- https://www.reddit.com/r/uBlockOrigin/comments/1rf07fv/i_made_a_filterlist_to_block_generative_ai/
 ! Promote post button
