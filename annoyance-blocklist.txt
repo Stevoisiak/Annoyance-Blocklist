@@ -186,6 +186,9 @@ www.youtube.com###viewer-leaderboard-entry-point
 ! -- https://www.youtube.com/watch?v=lLWEXRAnQd0
 ! Quiz below video description
 www.youtube.com###teaser-carousel:has([aria-label="Quizzes"])
+! Video hashtags in description
+www.youtube.com###ytd-watch-info-text .yt-formatted-string[href^="/hashtag/"]
+www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-string[href^="/hashtag/"])
 
 ! == YouTube Studio ==
 ! -- Create stream
