@@ -40,7 +40,8 @@ www.facebook.com##[role="link"][href^="https://l.facebook.com/l.php?u=https%3A%2
 ! Homepage streamer promo
 gelbooru.com##center:has(> [href="https://twitch.tv/nyudachi"])
 ! Sticky banner about popunder ads
-gelbooru.com###motd[style="background: #a43535; color: #fff; padding: 10px; font-size: 11px;"]
+gelbooru.com###motd
+gelbooru.com##+js(set-cookie, motd, 1)
 ! Rule34 promo
 gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
 ||gelbooru.com/r34.mp4$media,1p
