@@ -80,6 +80,11 @@ m365.cloud.microsoft##[data-testid="copilot-message-div"] > .___1ce2hhi:has-text
 ! Shirt ad on gallery page
 nhentai.net##.kurohebi-slot
 
+! == Outlook ==
+! -- https://outlook.live.com/mail/
+! Sidebar ad
+outlook.live.com###MainModule .LBktY > .GssDD
+
 ! == PC Gamer ==
 ! "Join The Club" header banner
 www.pcgamer.com##.custom-widget-membership
