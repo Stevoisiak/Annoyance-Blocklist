@@ -141,8 +141,11 @@ www.reddit.com##[name="PromotePostButton_PromB1"]
 www.reddit.com##.profile-settings-item:has([href="/avatar"])
 
 ! == Rule 34 ==
+! Header button
+rule34.xxx##li:has(> [href="https://rule34.xxx/index.php?page=icame"])
 ! Shirt promo banner
 rule34.xxx##.horizontalFlexWithMargins:has(img[src="https://rule34.xxx/images/rule34_merch.jpg"])
+
 
 ! == Stack Overflow ==
 ! Header
