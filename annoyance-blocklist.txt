@@ -150,10 +150,12 @@ stackoverflow.com###nav-staging-ground
 ! The Overflow Blog
 ! * Logged in on SO homepage
 stackoverflow.com##.s-sidebarwidget:has(> #overflow-blog-items)
-! * Logged out, different site, or different page
+! * Different page, different site, or logged out
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--header:has(+ .s-sidebarwidget--item .iconPencilSm)
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(.iconPencilSm)
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(.iconPencilSm) + .s-sidebarwidget--header:style(border-top-width: 0 !important)
+! * Hide section if all items are blog posts
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget__yellow:not(:has(.svg-icon:not(.iconPencilSm)))
 
 ! == SQL Server Tutorial ==
 ! Ads
