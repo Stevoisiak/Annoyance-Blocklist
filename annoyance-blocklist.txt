@@ -25,6 +25,10 @@ www.analyticsmania.com##[data-formkit-toggle]
 ||donmai.us^$uritransform=/sort%3A/order%3A/i
 ||e621.net^$uritransform=/sort%3A/order%3A/i
 
+! == ChatGPT ==
+! Upsell notice above chat field
+chatgpt.com###thread [data-prompt-textarea-header]
+
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
 discord.com##.channel__972a0:has([href="/store"])
