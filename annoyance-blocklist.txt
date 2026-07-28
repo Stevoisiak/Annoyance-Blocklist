@@ -172,7 +172,9 @@ www.sqlservertutorial.net##[aria-label="Advertisement"]
 
 ! == Udemy ==
 ! -- https://www.udemy.com/
-! Subscription promo (logged in)
+! Header promo banner
+www.udemy.com##section[aria-label="Marketing notification from Udemy"]
+! Subscription promo block in middle of page (logged in)
 www.udemy.co##[data-testid="pp-upsell-banner"]
 
 ! == X/Twitter ==
