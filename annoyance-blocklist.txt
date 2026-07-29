@@ -236,3 +236,7 @@ studio.youtube.com##ytcp-uploads-video-element:has(#posts-button)
 studio.youtube.com##ytshopping-uploads-video-elements-entry-point
 ! Promote this video
 studio.youtube.com##.promote-after-upload
+
+! == Zero To Mastery ==
+! -- https://zerotomastery.io/blog/bash-if-file-exists/
+zerotomastery.io##.blog-poststyles__PinnedCTAContainer-sc-1hs5883-22:has([href="/tech-career-path-quiz/"])
