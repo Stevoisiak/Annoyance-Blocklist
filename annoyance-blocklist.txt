@@ -195,10 +195,11 @@ x.com##.css-175oi2r:has(> .css-175oi2r > [aria-label="Subscribe to Premium"])
 x.com##.css-175oi2r.r-dnmrzs.r-nsbfu8:has([href="/i/premium_sign_up"])
 
 ! == YouTube ==
+! -- https://www.youtube.com/ (Home feed)
 ! Playables
 www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
-! Livestream - Chat top fans
-www.youtube.com###viewer-leaderboard-entry-point
+! "Looking for something different?" dialog
+www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 
 ! -- https://www.youtube.com/watch?v=lLWEXRAnQd0
 ! Quiz below video description
@@ -206,6 +207,10 @@ www.youtube.com###teaser-carousel:has([aria-label="Quizzes"])
 ! Video hashtags in description
 www.youtube.com###ytd-watch-info-text .yt-formatted-string[href^="/hashtag/"]
 www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-string[href^="/hashtag/"])
+
+! -- Livestream
+! Livestream - Chat top fans
+www.youtube.com###viewer-leaderboard-entry-point
 
 ! == YouTube Studio ==
 ! -- Create stream
