@@ -79,6 +79,8 @@ central.insightsoftware.com#@##forethought-chat
 m365.cloud.microsoft##.___1qpkefa:has([data-testid="upgrade-copilot"])
 ! Upsell at bottom of AI response
 m365.cloud.microsoft##[data-testid="copilot-message-div"] > .___1ce2hhi:has-text("Get help with all your work")
+! Tip dialogs (like promo for mobile app) 
+m365.cloud.microsoft##[role="dialog"][aria-label="Tips"]
 
 ! == nhentai ==
 ! Shirt ad on gallery page
