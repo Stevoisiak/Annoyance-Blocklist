@@ -160,7 +160,7 @@ stackoverflow.com##li:has(> [href="https://stackoverflow.co/internal/"] > [data-
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###review-button > .s-activity-indicator__danger
 ! Left sidebar
 stackoverflow.com###nav-staging-ground
-! The Overflow Blog
+! Right sidebar - The Overflow Blog
 ! * Logged in on SO homepage
 stackoverflow.com##.s-sidebarwidget:has(> #overflow-blog-items)
 ! * Different page, different site, or logged out
@@ -169,6 +169,8 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(.iconPencilSm) + .s-sidebarwidget--header:style(border-top-width: 0 !important)
 ! * Hide section if all items are blog posts
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget__yellow:not(:has(.svg-icon:not(.iconPencilSm)))
+! Right sidebar - Popular tags - Blank tag
+stackoverflow.com##.s-sidebarwidget--item > .s-tag[href="https://stackoverflow.com/questions/tagged/"]
 
 ! == SQL Server Tutorial ==
 ! Ads
