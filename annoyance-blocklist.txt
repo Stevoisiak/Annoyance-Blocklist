@@ -241,4 +241,5 @@ studio.youtube.com##.promote-after-upload
 
 ! == Zero To Mastery ==
 ! -- https://zerotomastery.io/blog/bash-if-file-exists/
+! Quiz
 zerotomastery.io##.blog-poststyles__PinnedCTAContainer-sc-1hs5883-22:has([href="/tech-career-path-quiz/"])
