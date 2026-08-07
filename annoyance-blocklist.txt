@@ -77,7 +77,7 @@ central.insightsoftware.com#@##forethought-chat
 ! == Kotaku ==
 ! -- https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290
 ! Empty space for ads
-kotaku.com##.border-b:has(.optidigital-ad-center-sticky)
+kotaku.com##.border-b:has(> .od-wrapper)
 kotaku.com##.optidigital-wrapper-div
 
 ! == M365 Copilot ==
