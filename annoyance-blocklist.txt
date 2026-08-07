@@ -210,6 +210,10 @@ www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
 ! "Looking for something different?" dialog
 www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 
+! -- Video page
+! Auto-dubbed label on related video
+www.youtube.com##.ytContentMetadataViewModelBadge:has-text("Auto-dubbed")
+
 ! -- https://www.youtube.com/watch?v=lLWEXRAnQd0
 ! Quiz below video description
 www.youtube.com###teaser-carousel:has([aria-label="Quizzes"])
