@@ -65,6 +65,9 @@ gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocu
 ! Upgrade button
 calendar.google,drive.google.com##button[aria-label="Upgrade"]
 docs.google.com###workspace-onegoogle-pep-container
+! -- https://www.google.com/
+! Promo text below search bar
+www.google.*##promo-middle-slot
 
 ! == How-To Geek ==
 ! Quiz
