@@ -243,8 +243,9 @@ studio.youtube.com###content-list-promotions-tab
 ! -- Video upload screen
 ! Description - Products
 studio.youtube.com###product_tagging
-! Add Quizzes
+! Video Elements - Add Quizzes/Files
 studio.youtube.com##ytcp-uploads-video-element:has(#posts-button)
+studio.youtube.com##ytcp-uploads-video-element:has(#video-files-button)
 ! Tag products
 studio.youtube.com##ytshopping-uploads-video-elements-entry-point
 ! Promote this video
