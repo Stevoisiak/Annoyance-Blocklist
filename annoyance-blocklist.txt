@@ -69,6 +69,25 @@ docs.google.com###workspace-onegoogle-pep-container
 ! Promo text below search bar
 www.google.*##promo-middle-slot
 
+! == Hevo ==
+! -- https://hevodata.com/learn/airflow-sql-server/
+! Header promo
+hevodata.com##.webinar-banners-wrapper
+! Floating chat icon
+hevodata.com##.intercom-lightweight-app
+! Floating scroll up icon
+hevodata.com##.topbutton
+! Newsletter
+hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
+hevodata.com##.under-hero-guide-banner
+! Cookies
+hevodata.com##.cookie-consent-anchor
+! Social media
+hevodata.com##.sharing-options-list
+hevodata.com##.social-handle
+! Promo at bottom of article
+hevodata.com##.footer-cta-banner
+
 ! == How-To Geek ==
 ! Quiz
 www.howtogeek.com##.vq
