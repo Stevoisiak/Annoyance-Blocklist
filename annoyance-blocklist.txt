@@ -12,6 +12,11 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 airflow.apache.org##header > [href="https://airflowsummit.org"]
 airflow.apache.org##header:has(> [href="https://airflowsummit.org"]) > nav:style(top: 0px !important)
 
+! == Apache Arrow ==
+! -- https://arrow.apache.org/docs/python/parquet.html
+! "Back to top" button
+arrow.apache.org###pst-back-to-top
+
 ! == Analytics Mania ==
 ! Newsletter
 www.analyticsmania.com##form[action$="/subscriptions"]
