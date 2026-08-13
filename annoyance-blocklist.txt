@@ -221,6 +221,11 @@ www.udemy.com##section[aria-label="Marketing notification from Udemy"]
 ! Subscription promo block in middle of page (logged in)
 www.udemy.co##[data-testid="pp-upsell-banner"]
 
+! == Visual Studio ==
+! -- https://code.visualstudio.com/docs
+! Social links in footer
+code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
+
 ! == X/Twitter ==
 ! Left sidebar
 x.com##[href="/i/jf/creators/studio"][aria-label="Creator Studio"]
