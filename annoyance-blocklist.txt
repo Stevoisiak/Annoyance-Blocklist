@@ -34,6 +34,10 @@ www.analyticsmania.com##[data-formkit-toggle]
 ! Upsell notice above chat field
 chatgpt.com###thread [data-prompt-textarea-header]
 
+! == Claude ==
+! Notice to use desktop app
+claude.ai##[data-alert-band-wrapper="true"]:has(button:has-text(Get desktop app))
+
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
 discord.com##.channel__972a0:has([href="/store"])
