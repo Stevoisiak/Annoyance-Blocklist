@@ -168,6 +168,8 @@ www.reddit.com##ul:has(> [noun="advertise"]) + hr
 ! Search bar autocomplete - Trending stories
 www.reddit.com###reddit-trending-searches-partial-container > div > #section_0_pipeline_1_trending_query
 www.reddit.com###reddit-trending-searches-partial-container > div > li
+! Comment insights (view count on your comments)
+www.reddit.com##[slot="comment-insight"]
 
 ! -- https://www.reddit.com/?feed=home
 ! Home feed posts mentioning trump
