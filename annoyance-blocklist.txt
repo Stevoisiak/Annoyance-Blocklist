@@ -66,6 +66,8 @@ gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 ! == GitHub ==
 ! Trending Repositories
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
+! Allow standalone GitHub Copilot
+@@||github.com/github-copilot/chat$xhr,1p
 
 ! == Gizmodo ==
 gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocurrencies"]
