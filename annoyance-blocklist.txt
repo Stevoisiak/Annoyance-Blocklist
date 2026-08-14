@@ -258,7 +258,7 @@ www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 
 ! -- Video page
 ! Auto-dubbed label on related video
-www.youtube.com##.ytContentMetadataViewModelBadge:has-text("Auto-dubbed")
+www.youtube.com##.ytContentMetadataViewModelBadge:has-text(Auto-dubbed)
 
 ! -- https://www.youtube.com/watch?v=lLWEXRAnQd0
 ! Quiz below video description
