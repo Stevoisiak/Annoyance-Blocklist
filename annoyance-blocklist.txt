@@ -190,6 +190,8 @@ www.reddit.com##.profile-settings-item:has([href="/avatar"])
 rule34.xxx##li:has(> [href="https://rule34.xxx/index.php?page=icame"])
 ! Shirt promo banner
 rule34.xxx##.horizontalFlexWithMargins:has(img[src="https://rule34.xxx/images/rule34_merch.jpg"])
+! Author promo on image page
+rule34.xxx###pv_leaderboard
 
 ! == Stack Overflow ==
 ! Header
