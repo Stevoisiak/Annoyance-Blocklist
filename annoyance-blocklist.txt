@@ -2,10 +2,14 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
+! == Generic ==
 ! Google preferred source
 ##[href^="https://google.com/preferences/source?q="]
 ! Mid-artcle polls
 www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
+! Sign-in with Google dialogs
+! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
+||accounts.google.com/gsi/*$xhr,script,3p
 
 ! == Apache Airflow ==
 ! Undismissable header banner for airflow summit
