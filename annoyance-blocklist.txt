@@ -138,6 +138,10 @@ outlook.live.com###MainModule .LBktY > .GssDD
 ! "Join The Club" header banner
 www.pcgamer.com##.custom-widget-membership
 
+! == Prime Video ==
+! "Your video continues here after the break" above video timeline
+www.primevideo.com##.f198q32e.f615xjr.f1xakr95
+
 ! == Quicken ==
 ! -- https://www.quicken.com/support/error-102-while-adding-account-quicken-mac/
 ! Was this article helpful?
