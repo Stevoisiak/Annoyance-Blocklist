@@ -189,6 +189,8 @@ www.reddit.com###post-overflow-promotePost
 www.reddit.com###post-overflow-brandAffiliate
 ! Crosspost dialog after submitting post
 www.reddit.com###nudge-to-crosspost-dialog
+! Mobile ad in post comments
+www.reddit.com##li:has(ad-event-tracker)
 
 ! -- https://www.reddit.com/user/Stevoisiak/
 ! Promote button below post
