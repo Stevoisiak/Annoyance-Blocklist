@@ -256,6 +256,12 @@ x.com##.css-g5y9jx.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1
 ! "You aren't verified yet" notice
 x.com##.css-175oi2r.r-dnmrzs.r-nsbfu8:has([href="/i/premium_sign_up"])
 
+! -- https://x.com/StuffZeebo/status/2088405250981908960 (logged out)
+! Scan to get app
+x.com##button:has(> img[src="https://abs.twimg.com/x-web/x-web/assets/scan-to-get-app-qr-BrLDtiAI.svg"])
+! See all the replies
+x.com##aside.fixed:has([href^="/i/jf/onboarding/web?mode=login"])
+
 ! == YouTube ==
 ! -- https://www.youtube.com/ (Home feed)
 ! Playables
