@@ -72,6 +72,9 @@ gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
 ! Allow standalone GitHub Copilot
 @@||github.com/github-copilot/chat$xhr,1p
+! Allow Copilot Settings in user menu when using enterprise account
+github.com#@#.prc-ActionList-ActionListItem-So4vC:has(> [href="/settings/copilot"])
+github.com##.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) .prc-ActionList-ActionListItem-So4vC:has(> [href="/settings/copilot"])
 
 ! == Gizmodo ==
 gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocurrencies"]
