@@ -232,6 +232,10 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 ! Right sidebar - Popular tags - Blank tag
 stackoverflow.com##.s-sidebarwidget--item > .s-tag[href="https://stackoverflow.com/questions/tagged/"]
 
+! -- https://stackoverflow.com/questions/37770065/getting-permission-to-execute-a-bash-script
+! Copy button on code snippets
+stackoverflow.com##.js-copy-button
+
 ! == SQL Server Tutorial ==
 ! Ads
 www.sqlservertutorial.net##.ad
