@@ -241,6 +241,10 @@ stackoverflow.com##.js-copy-button
 www.sqlservertutorial.net##.ad
 www.sqlservertutorial.net##[aria-label="Advertisement"]
 
+! == Tom's Hardware ==
+! Header promo to join site after scrolling down
+www.tomshardware.com###skinnyBanner
+
 ! == Udemy ==
 ! -- https://www.udemy.com/
 ! Header promo banner
