@@ -131,6 +131,11 @@ m365.cloud.microsoft##[data-testid="copilot-message-div"] > .___1ce2hhi:has-text
 ! Tip dialogs (like promo for mobile app) 
 m365.cloud.microsoft##[role="dialog"][aria-label="Tips"]
 
+== MiniTool ==
+! -- https://www.minitool.com/lib/unc-path.html
+! Popup promo in bottom right
+www.minitool.com##.promotions-popup-container
+
 ! == nhentai ==
 ! Shirt ad on gallery page
 nhentai.net##.kurohebi-slot
