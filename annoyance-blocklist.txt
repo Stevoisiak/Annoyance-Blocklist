@@ -42,6 +42,10 @@ chatgpt.com###thread [data-prompt-textarea-header]
 ! Notice to use desktop app
 claude.ai##[data-alert-band-wrapper="true"]:has(button:has-text(Get desktop app))
 
+! == Codeberg ==
+! Header banner for TOS change about AI repos
+codeberg.org###tou-announcement:has([href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"])
+
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
 discord.com##.channel__972a0:has([href="/store"])
