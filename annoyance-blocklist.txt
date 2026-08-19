@@ -67,6 +67,10 @@ gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"])
 gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br
 gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 
+! -- Favorites
+! Header bar message
+gelbooru.com##.noticeError:has([href="https://buymyshit.moneygrubbingwhore.com/?1"])
+
 ! == GitHub ==
 ! Trending Repositories
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
