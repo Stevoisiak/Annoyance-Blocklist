@@ -330,6 +330,8 @@ studio.youtube.com##ytshopping-uploads-video-elements-entry-point
 studio.youtube.com##.promote-after-upload
 ! Popup survey dialog
 studio.youtube.com###google-hats-survey
+! Share links on third party sites
+studio.youtube.com##yt-third-party-share-target-section-renderer
 
 ! == Zero To Mastery ==
 ! -- https://zerotomastery.io/blog/bash-if-file-exists/
