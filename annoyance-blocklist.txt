@@ -328,6 +328,8 @@ studio.youtube.com##ytcp-uploads-video-element:has(#video-files-button)
 studio.youtube.com##ytshopping-uploads-video-elements-entry-point
 ! Promote this video
 studio.youtube.com##.promote-after-upload
+! Popup survey dialog
+studio.youtube.com###google-hats-survey
 
 ! == Zero To Mastery ==
 ! -- https://zerotomastery.io/blog/bash-if-file-exists/
