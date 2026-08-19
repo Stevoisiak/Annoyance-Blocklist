@@ -182,12 +182,12 @@ www.reddit.com##[noun="rereddit_translated_de_menu"]
 ! Navbar
 www.reddit.com##[data-part="advertise"]
 ! Navbar - Profile
-www.reddit.com##[noun="edit_avatar"]
-www.reddit.com##[source="achievements"]
+www.reddit.com##[noun="edit_avatar"][source="user_drawer"]
+www.reddit.com##[noun="user_drawer"][source="achievements"]
 www.reddit.com##[source="earn"]
 www.reddit.com##[noun="premium_menu"]
-www.reddit.com##ul:has(> [noun="advertise"])
-www.reddit.com##ul:has(> [noun="advertise"]) + hr
+www.reddit.com##ul:has(> [noun="advertise"][source="user_drawer"])
+www.reddit.com##ul:has(> [noun="advertise"][source="user_drawer"]) + hr
 ! Search bar autocomplete - Trending stories
 www.reddit.com###reddit-trending-searches-partial-container > div > #section_0_pipeline_1_trending_query
 www.reddit.com###reddit-trending-searches-partial-container > div > li
