@@ -71,6 +71,10 @@ gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 ! Header bar message
 gelbooru.com##.noticeError:has([href="https://buymyshit.moneygrubbingwhore.com/?1"])
 
+! == Gmail ==
+! Upgrade button in header
+mail.google.com##[data-pep-id="global-pep-gmail"]
+
 ! == GitHub ==
 ! Trending Repositories
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
