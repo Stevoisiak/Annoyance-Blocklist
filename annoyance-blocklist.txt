@@ -91,6 +91,10 @@ github.com##.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) .prc-
 github.com#@#[data-testid="side-nav-menu-item-COPILOT"]
 github.com##.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) [data-testid="side-nav-menu-item-COPILOT"]
 
+! -- https://github.com/copilot
+! Banner promo for desktop app
+github.com##[data-testid="copilot-app-banner-inner"]
+
 ! == Gizmodo ==
 gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocurrencies"]
 
