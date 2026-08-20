@@ -263,6 +263,11 @@ stackoverflow.com##.s-sidebarwidget--item > .s-tag[href="https://stackoverflow.c
 ! Copy button on code snippets
 stackoverflow.com##.js-copy-button
 
+! == StatusGator ==
+! -- https://statusgator.com/services/github
+! Header banner for chrome extension
+statusgator.com##[aria-label="Announcement"]:has(> [href="https://chromewebstore.google.com/detail/statusgator/gkdejaehclmenkkkabkehbiacgmmbaji"])
+
 ! == SQL Server Tutorial ==
 ! Ads
 www.sqlservertutorial.net##.ad
