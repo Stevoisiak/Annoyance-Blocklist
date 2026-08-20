@@ -147,6 +147,11 @@ m365.cloud.microsoft##[data-testid="copilot-message-div"] > .___1ce2hhi:has-text
 ! Tip dialogs (like promo for mobile app) 
 m365.cloud.microsoft##[role="dialog"][aria-label="Tips"]
 
+! == Microsoft ==
+! -- https://www.microsoft.com/en-us
+! Header banner for Microsoft Rewards
+www.microsoft.com##uhf-promo-banner:has([alt="Maximize your points with the Microsoft Rewards extension"])
+
 ! == Microsoft Teams ==
 ! Header banner to download Teams for desktop
 teams.cloud.microsoft##[data-tid="banner-notification-id"]:has([data-tid="banner-notification-action-teamsClientDownloadBanner-0"])
