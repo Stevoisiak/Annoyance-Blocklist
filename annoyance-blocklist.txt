@@ -151,6 +151,8 @@ m365.cloud.microsoft##[role="dialog"][aria-label="Tips"]
 ! -- https://www.microsoft.com/en-us
 ! Header banner for Microsoft Rewards
 www.microsoft.com##uhf-promo-banner:has([alt="Maximize your points with the Microsoft Rewards extension"])
+! Header banner for store promos
+www.microsoft.com##store-announcement
 
 ! == Microsoft Teams ==
 ! Header banner to download Teams for desktop
