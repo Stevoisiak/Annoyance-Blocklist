@@ -11,6 +11,15 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
 ||accounts.google.com/gsi/*$xhr,script,3p
 
+! == AOMEI ==
+! -- https://www.ubackup.com/enterprise-backup/restore-multiple-databases-sql-server-1021.html
+! Floating table of contents that covers article
+www.ubackup.com##.js-toc-box
+! Floating sale promo
+www.ubackup.com###promo-rightbox-mini-ub
+! Floating scroll-to-top button
+www.ubackup.com###back-top
+
 ! == Apache Airflow ==
 ! Undismissable header banner for airflow summit
 airflow.apache.org##header > [href="https://airflowsummit.org"]
