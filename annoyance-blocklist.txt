@@ -36,12 +36,14 @@ www.analyticsmania.com##form[action$="/subscriptions"]
 www.analyticsmania.com##[data-formkit-toggle]
 
 ! == Booru Redirects ==
+!#if ext_ublock
 ||gelbooru.com^$uritransform=/order%3A/sort%3A/i
 ||rule34.us^$uritransform=/order%3A/sort%3A/i
 ||rule34.xxx^$uritransform=/order%3A/sort%3A/i
 ||safebooru.org^$uritransform=/order%3A/sort%3A/i
 ||donmai.us^$uritransform=/sort%3A/order%3A/i
 ||e621.net^$uritransform=/sort%3A/order%3A/i
+!#endif
 
 ! == ChatGPT ==
 ! Upsell notice above chat field
