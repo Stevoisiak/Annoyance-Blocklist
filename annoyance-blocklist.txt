@@ -161,6 +161,10 @@ www.microsoft.com##uhf-promo-banner:has([alt="Maximize your points with the Micr
 ! Header banner for store promos
 www.microsoft.com##store-announcement
 
+! -- https://learn.microsoft.com/en-us/
+! Footer - AI disclaimer
+learn.microsoft.com##li:has(> [data-bi-name="aiDisclaimer"])
+
 ! == Microsoft Teams ==
 ! Header banner to download Teams for desktop
 teams.cloud.microsoft##[data-tid="banner-notification-id"]:has([data-tid="banner-notification-action-teamsClientDownloadBanner-0"])
