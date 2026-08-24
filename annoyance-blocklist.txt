@@ -261,6 +261,10 @@ rule34.xxx##.horizontalFlexWithMargins:has(img[src="https://rule34.xxx/images/ru
 ! Author promo on image page
 rule34.xxx###pv_leaderboard
 
+! == Safebooru ==
+! Header nav - Patreon
+safebooru.org##li:has(> [href="https://patreon.com/booru"])
+
 ! == Stack Overflow ==
 ! Header
 stackoverflow.com##li:has(> [aria-controls="products-popover"])
