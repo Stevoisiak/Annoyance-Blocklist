@@ -243,6 +243,8 @@ www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="Trump
 ! * This ad is hidden by other lists, but they leave a separator behind
 www.reddit.com##[bundlename="sidebar_ad"]
 www.reddit.com##[bundlename="sidebar_ad"] + .border-neutral-border-weak
+! Sidebar - Community Achievements
+www.reddit.com##achievements-entrypoint
 
 ! -- https://www.reddit.com/r/uBlockOrigin/comments/1rf07fv/i_made_a_filterlist_to_block_generative_ai/
 ! Promote post button
