@@ -113,6 +113,14 @@ docs.google.com###workspace-onegoogle-pep-container
 ! Promo text below search bar
 www.google.*##promo-middle-slot
 
+! == Hentai2Read ==
+! Header "Games" buttons
+hentai2read.com##.btn-default[href="https://hive.arf.dev/r/mEYRhw"]
+hentai2read.com##.btn-default[href="/gaming"]
+! Sidebar items
+hentai2read.com##.nav-main [href="https://hentai2read.com/promos/black-friday.html"]
+hentai2read.com##.nav-main [href="https://mysexgames.com/"]
+
 ! == Hevo ==
 ! -- https://hevodata.com/learn/airflow-sql-server/
 ! Header promo
