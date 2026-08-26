@@ -161,6 +161,10 @@ www.microsoft.com##uhf-promo-banner:has([alt="Maximize your points with the Micr
 ! Header banner for store promos
 www.microsoft.com##store-announcement
 
+! -- https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=36f32b4e2829691d05ad3eb4294b6860
+! Announcement header banner
+www.microsoft.com##.ocr-announcement-banner
+
 ! -- https://learn.microsoft.com/en-us/
 ! Footer - AI disclaimer
 learn.microsoft.com##li:has(> [data-bi-name="aiDisclaimer"])
