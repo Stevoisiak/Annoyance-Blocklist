@@ -12,9 +12,10 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ||accounts.google.com/gsi/*$xhr,script,3p
 
 ! == Social/Share Buttons ==
-arstechnica.com##.site-footer-statement > .mt-4
 ! Social footer
+arstechnica.com##.site-footer-statement > .mt-4
 theverge.com##._1fwf6sa8
+geeksforgeeks.org##.footer-container_branding-social
 ! Google doodle share
 www.google.com##[role="button"][aria-label="Share"]
 ! -- https://labex.io/tutorials/docker-how-to-use-docker-desktop-disable-model-runner-command-to-disable-model-runner-555139
