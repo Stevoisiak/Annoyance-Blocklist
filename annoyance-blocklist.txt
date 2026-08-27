@@ -11,6 +11,15 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
 ||accounts.google.com/gsi/*$xhr,script,3p
 
+! == Social/Share Buttons ==
+arstechnica.com##.site-footer-statement > .mt-4
+! Google doodle share
+www.google.com##[role="button"][aria-label="Share"]
+! -- https://labex.io/tutorials/docker-how-to-use-docker-desktop-disable-model-runner-command-to-disable-model-runner-555139
+labex.io###tutorial-detail-sidebar > .mb-10
+
+! -------------------------------
+
 ! == AOMEI ==
 ! -- https://www.ubackup.com/enterprise-backup/restore-multiple-databases-sql-server-1021.html
 ! Floating table of contents that covers article
