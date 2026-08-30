@@ -13,6 +13,7 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 
 ! == Social/Share Buttons ==
 ! Social footer
+answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 arstechnica.com##.site-footer-statement > .mt-4
 theverge.com##._1fwf6sa8
 geeksforgeeks.org##.footer-container_branding-social
