@@ -19,8 +19,6 @@ theverge.com##._1fwf6sa8
 geeksforgeeks.org##.footer-container_branding-social
 ! Google doodle share
 www.google.com##[role="button"][aria-label="Share"]
-! -- https://labex.io/tutorials/docker-how-to-use-docker-desktop-disable-model-runner-command-to-disable-model-runner-555139
-labex.io###tutorial-detail-sidebar > .mb-10
 
 ! -------------------------------
 
