@@ -161,6 +161,10 @@ www.howtogeek.com##.vq
 ! Override AI chat filter from Stevo's AI Blocklist
 central.insightsoftware.com#@##forethought-chat
 
+! == Kagi ==
+! -- https://kagi.com/search?q=test
+! Footer "Share this search"
+
 ! == Kotaku ==
 ! -- https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290
 ! Empty space for ads
