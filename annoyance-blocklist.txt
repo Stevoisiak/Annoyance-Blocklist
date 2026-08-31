@@ -11,16 +11,11 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
 ||accounts.google.com/gsi/*$xhr,script,3p
 
-! == Social/Share Buttons ==
+! -------------------------------
+
+! == Answer Overflow ==
 ! Social footer
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
-arstechnica.com##.site-footer-statement > .mt-4
-theverge.com##._1fwf6sa8
-geeksforgeeks.org##.footer-container_branding-social
-! Google doodle share
-www.google.com##[role="button"][aria-label="Share"]
-
-! -------------------------------
 
 ! == AOMEI ==
 ! -- https://www.ubackup.com/enterprise-backup/restore-multiple-databases-sql-server-1021.html
@@ -40,6 +35,10 @@ airflow.apache.org##header:has(> [href="https://airflowsummit.org"]) > nav:style
 ! -- https://arrow.apache.org/docs/python/parquet.html
 ! "Back to top" button
 arrow.apache.org###pst-back-to-top
+
+! == Ars Technica ==
+! Social footer
+arstechnica.com##.site-footer-statement > .mt-4
 
 ! == Analytics Mania ==
 ! Newsletter
@@ -93,6 +92,10 @@ gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 ! Header bar message
 gelbooru.com##.noticeError:has([href="https://buymyshit.moneygrubbingwhore.com/?1"])
 
+! == Geeks for Geeks ==
+! Social
+geeksforgeeks.org##.footer-container_branding-social
+
 ! == Gmail ==
 ! Upgrade button in header
 mail.google.com##[data-pep-id="global-pep-gmail"]
@@ -120,7 +123,10 @@ gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocu
 ! Upgrade button
 calendar.google,drive.google.com##button[aria-label="Upgrade"]
 docs.google.com###workspace-onegoogle-pep-container
+
 ! -- https://www.google.com/
+! Google doodle share
+www.google.com##[role="button"][aria-label="Share"]
 ! Promo text below search bar
 www.google.*##promo-middle-slot
 
@@ -335,6 +341,10 @@ www.sqlservertutorial.net##[aria-label="Advertisement"]
 ! == Tom's Hardware ==
 ! Header promo to join site after scrolling down
 www.tomshardware.com###skinnyBanner
+
+! == The Verge ==
+! Social
+theverge.com##._1fwf6sa8
 
 ! == Udemy ==
 ! -- https://www.udemy.com/
