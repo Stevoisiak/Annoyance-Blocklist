@@ -45,6 +45,11 @@ arstechnica.com##.site-footer-statement > .mt-4
 www.analyticsmania.com##form[action$="/subscriptions"]
 www.analyticsmania.com##[data-formkit-toggle]
 
+! == Bing ==
+! -- https://www.bing.com/search?q=test
+! Footer - "New" label by Terms
+www.bing.com###b_legalnotif
+
 ! == Booru Redirects ==
 !#if ext_ublock
 ||$uritransform=/order%3A/sort%3A/i,domain=gelbooru.com|rule34.us|rule34.xxx|safebooru.org
