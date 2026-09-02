@@ -177,6 +177,7 @@ central.insightsoftware.com#@##forethought-chat
 ! == Kagi ==
 ! -- https://kagi.com/search?q=test
 ! Footer "Share this search"
+kagi.com##._0_share_url_footer
 
 ! == Kotaku ==
 ! -- https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290
