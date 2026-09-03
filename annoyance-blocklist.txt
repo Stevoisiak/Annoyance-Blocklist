@@ -105,10 +105,6 @@ gelbooru.com##.noticeError:has([href="https://buymyshit.moneygrubbingwhore.com/?
 ! Social
 geeksforgeeks.org##.footer-container_branding-social
 
-! == Gmail ==
-! Upgrade button in header
-mail.google.com##[data-pep-id="global-pep-gmail"]
-
 ! == GitHub ==
 ! Trending Repositories
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
@@ -129,9 +125,10 @@ github.com##[data-testid="copilot-app-banner-inner"]
 gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocurrencies"]
 
 ! == Google ==
-! Upgrade button
-calendar.google.com,drive.google.com##button[aria-label="Upgrade"]
+! Upgrade button in header
+calendar.google.com,drive.google.com##.YGmjrf
 docs.google.com###workspace-onegoogle-pep-container
+mail.google.com##[data-pep-id="global-pep-gmail"]
 
 ! -- https://www.google.com/
 ! Google doodle share
