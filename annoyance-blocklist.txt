@@ -130,7 +130,7 @@ gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocu
 
 ! == Google ==
 ! Upgrade button
-calendar.google,drive.google.com##button[aria-label="Upgrade"]
+calendar.google.com,drive.google.com##button[aria-label="Upgrade"]
 docs.google.com###workspace-onegoogle-pep-container
 
 ! -- https://www.google.com/
