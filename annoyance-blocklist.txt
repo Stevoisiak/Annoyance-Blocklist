@@ -376,7 +376,7 @@ x.com##.css-g5y9jx.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1
 
 ! -- https://x.com/GooseworxMusic
 ! "You aren't verified yet" notice
-x.com##.css-175oi2r.r-dnmrzs.r-nsbfu8:has([href="/i/premium_sign_up"])
+x.com##[data-testid="verified_profile_visitor_upsell"]
 
 ! -- https://x.com/StuffZeebo/status/2088405250981908960 (logged out)
 ! Scan to get app
