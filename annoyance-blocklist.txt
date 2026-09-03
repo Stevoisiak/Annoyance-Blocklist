@@ -11,17 +11,33 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
 ||accounts.google.com/gsi/*$xhr,script,3p
 
+! == Social ==
+! Footer
+adguard.com##.footer__socials
+answeroverflow.com##.bottom-0 .flex.items-center.gap-3
+arstechnica.com##.site-footer-statement > .mt-4
+code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
+collinsdictionary.com##.reseauxDesktop
+geeksforgeeks.org##.footer-container_branding-social
+hevodata.com##.social-handle
+nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
+theverge.com##._1fwf6sa8
+! Footer (logged in)
+crunchyroll.com##[class^="footer-socials--"]
+
+! -- https://hevodata.com/learn/airflow-sql-server/
+! Share buttons
+hevodata.com##.sharing-options-list
+
+! -- https://kagi.com/search?q=test
+! Footer "Share this search"
+kagi.com##._0_share_url_footer
+
 ! -------------------------------
 
 ! == AdGuard ==
 ! Header promo banner
 adguard.com##[is="promo"]
-! Social footer
-adguard.com##.footer__socials
-
-! == Answer Overflow ==
-! Social footer
-answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 
 ! == AOMEI ==
 ! -- https://www.ubackup.com/enterprise-backup/restore-multiple-databases-sql-server-1021.html
@@ -41,10 +57,6 @@ airflow.apache.org##header:has(> [href="https://airflowsummit.org"]) > nav:style
 ! -- https://arrow.apache.org/docs/python/parquet.html
 ! "Back to top" button
 arrow.apache.org###pst-back-to-top
-
-! == Ars Technica ==
-! Social footer
-arstechnica.com##.site-footer-statement > .mt-4
 
 ! == Analytics Mania ==
 ! Newsletter
@@ -70,17 +82,9 @@ chatgpt.com###thread [data-prompt-textarea-header]
 ! Notice to use desktop app
 claude.ai##[data-alert-band-wrapper="true"]:has(button:has-text(Get desktop app))
 
-! == Collins Dictionary ==
-! Social footer
-collinsdictionary.com##.reseauxDesktop
-
 ! == Codeberg ==
 ! Header banner for TOS change about AI repos
 codeberg.org###tou-announcement:has([href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"])
-
-! == Crunchyroll ==
-! Social links in footer when logged in
-crunchyroll.com##[class^="footer-socials--"]
 
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
@@ -110,10 +114,6 @@ gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 ! -- Favorites
 ! Header bar message
 gelbooru.com##.noticeError:has([href="https://buymyshit.moneygrubbingwhore.com/?1"])
-
-! == Geeks for Geeks ==
-! Social
-geeksforgeeks.org##.footer-container_branding-social
 
 ! == GitHub ==
 ! Trending Repositories
@@ -171,9 +171,6 @@ hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
 ! Cookies
 hevodata.com##.cookie-consent-anchor
-! Social media
-hevodata.com##.sharing-options-list
-hevodata.com##.social-handle
 ! Promo at bottom of article
 hevodata.com##.footer-cta-banner
 
@@ -184,11 +181,6 @@ www.howtogeek.com##.vq
 ! == Insight Software ==
 ! Override AI chat filter from Stevo's AI Blocklist
 central.insightsoftware.com#@##forethought-chat
-
-! == Kagi ==
-! -- https://kagi.com/search?q=test
-! Footer "Share this search"
-kagi.com##._0_share_url_footer
 
 ! == Kotaku ==
 ! -- https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290
@@ -363,21 +355,12 @@ www.sqlservertutorial.net##[aria-label="Advertisement"]
 ! Header promo to join site after scrolling down
 www.tomshardware.com###skinnyBanner
 
-! == The Verge ==
-! Social
-theverge.com##._1fwf6sa8
-
 ! == Udemy ==
 ! -- https://www.udemy.com/
 ! Header promo banner
 www.udemy.com##section[aria-label="Marketing notification from Udemy"]
 ! Subscription promo block in middle of page (logged in)
 www.udemy.co##[data-testid="pp-upsell-banner"]
-
-! == Visual Studio ==
-! -- https://code.visualstudio.com/docs
-! Social links in footer
-code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 
 ! == X/Twitter ==
 ! Left sidebar
