@@ -29,6 +29,7 @@ collinsdictionary.com##.reseauxDesktop
 earth.com##[class^="Footer_social_bar__"]
 geeksforgeeks.org##.footer-container_branding-social
 hevodata.com##.social-handle
+macys.com##.footer-section:has(> [aria-label="Social Media List"])
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
 theverge.com##._1fwf6sa8
 ! Footer (logged in)
