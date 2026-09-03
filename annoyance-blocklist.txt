@@ -112,10 +112,14 @@ github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
 @@||github.com/github-copilot/chat$xhr,1p
 ! Allow Copilot Settings in user menu when using enterprise account
 github.com#@#.prc-ActionList-ActionListItem-So4vC:has(> [href="/settings/copilot"])
-github.com##.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) .prc-ActionList-ActionListItem-So4vC:has(> [href="/settings/copilot"])
+github.com##body.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) .prc-ActionList-ActionListItem-So4vC:has(> [href="/settings/copilot"])
 ! Allow left sidebar Copilot button on enterprise account
 github.com#@#[data-testid="side-nav-menu-item-COPILOT"]
 github.com##.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) [data-testid="side-nav-menu-item-COPILOT"]
+
+! -- https://github.com/cli/cli/issues/12998
+! Reactions button on Enterprise account
+github.com##body.logged-in:has(.GlobalNav [title^=" Users managed by "]) [aria-label="Reactions"] > button
 
 ! -- https://github.com/copilot
 ! Banner promo for desktop app
