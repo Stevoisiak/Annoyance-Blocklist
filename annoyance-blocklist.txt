@@ -18,6 +18,7 @@ answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 arstechnica.com##.site-footer-statement > .mt-4
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
+earth.com##[class^="Footer_social_bar__"]
 geeksforgeeks.org##.footer-container_branding-social
 hevodata.com##.social-handle
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
