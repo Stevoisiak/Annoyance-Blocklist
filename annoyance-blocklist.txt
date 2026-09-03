@@ -11,6 +11,13 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
 ||accounts.google.com/gsi/*$xhr,script,3p
 
+! == Newsletter ==
+www.analyticsmania.com##form[action$="/subscriptions"]
+www.analyticsmania.com##[data-formkit-toggle]
+axios.com##.mt-6:has(> [href="https://www.axios.com/newsletters"])
+hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
+hevodata.com##.under-hero-guide-banner
+
 ! == Social ==
 ! Footer
 adguard.com##.footer__socials
@@ -58,11 +65,6 @@ airflow.apache.org##header:has(> [href="https://airflowsummit.org"]) > nav:style
 ! -- https://arrow.apache.org/docs/python/parquet.html
 ! "Back to top" button
 arrow.apache.org###pst-back-to-top
-
-! == Analytics Mania ==
-! Newsletter
-www.analyticsmania.com##form[action$="/subscriptions"]
-www.analyticsmania.com##[data-formkit-toggle]
 
 ! == Bing ==
 ! -- https://www.bing.com/search?q=test
@@ -167,9 +169,6 @@ hevodata.com##.webinar-banners-wrapper
 hevodata.com##.intercom-lightweight-app
 ! Floating scroll up icon
 hevodata.com##.topbutton
-! Newsletter
-hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
-hevodata.com##.under-hero-guide-banner
 ! Cookies
 hevodata.com##.cookie-consent-anchor
 ! Promo at bottom of article
