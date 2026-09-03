@@ -13,6 +13,10 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 
 ! -------------------------------
 
+! == AdGuard ==
+! Header promo banner
+adguard.com##[is="promo"]
+
 ! == Answer Overflow ==
 ! Social footer
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
