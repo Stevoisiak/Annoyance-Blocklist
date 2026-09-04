@@ -2,6 +2,9 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
+! == Cookie ==
+auth.opera.com##.modal-type-cookie-consent
+
 ! == Generic ==
 ! Google preferred source
 ##[href^="https://google.com/preferences/source?q="]
