@@ -53,6 +53,7 @@ hevodata.com##.sharing-options-list
 kagi.com##._0_share_url_footer
 
 ! Google preferred source
+www.bloomberg.com##div:has(> [class*="PreferUs_preferUsTextButton__"])
 www.techspot.com##.google-preferred
 
 ! -------------------------------
