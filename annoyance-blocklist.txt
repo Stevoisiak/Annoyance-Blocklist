@@ -27,6 +27,7 @@ answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 arstechnica.com##.site-footer-statement > .mt-4
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
+docs.redhat.com##.social-links
 earth.com##[class^="Footer_social_bar__"]
 forums.opera.com##.hf__social-icons
 www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
