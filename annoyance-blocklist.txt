@@ -51,6 +51,9 @@ hevodata.com##.sharing-options-list
 ! Footer "Share this search"
 kagi.com##._0_share_url_footer
 
+! Google preferred source
+www.techspot.com##.google-preferred
+
 ! -------------------------------
 
 ! == AdGuard ==
