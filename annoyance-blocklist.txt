@@ -4,6 +4,7 @@
 
 ! == Cookie ==
 auth.opera.com##.modal-type-cookie-consent
+insider.razer.com##[data-css-anchor="cookie-banner"]
 
 ! == Generic ==
 ! Google preferred source
