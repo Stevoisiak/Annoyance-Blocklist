@@ -38,6 +38,7 @@ linuxjournal.com##.footer-heading
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
+www.wral.com##.social-links
 ! Footer (logged in)
 crunchyroll.com##[class^="footer-socials--"]
 ! Google preferred source
