@@ -14,6 +14,7 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ! == Newsletter ==
 www.analyticsmania.com##form[action$="/subscriptions"]
 www.analyticsmania.com##[data-formkit-toggle]
+futurism.com##.recurrent-newsletter-block
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
 
@@ -31,6 +32,8 @@ nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything
 theverge.com##._1fwf6sa8
 ! Footer (logged in)
 crunchyroll.com##[class^="footer-socials--"]
+! Google preferred source
+futurism.com##.item-wrapper--google-add
 
 ! -- https://hevodata.com/learn/airflow-sql-server/
 ! Share buttons
