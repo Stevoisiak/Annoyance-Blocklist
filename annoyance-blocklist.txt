@@ -196,6 +196,13 @@ central.insightsoftware.com#@##forethought-chat
 kotaku.com##.border-b:has(> .od-wrapper)
 kotaku.com##.optidigital-wrapper-div
 
+! == Linux.org ==
+! Donation/Shirt promos
+www.linux.org##.p-body-sidebar > [href="https://www.linux.org/pages/donation/"]
+www.linux.org##.p-body-sidebar > [href="https://www.linux.org/pages/donation/"] + br
+www.linux.org##.p-body-sidebar > div:has(> [href="https://adminapparel.com/"])
+www.linux.org##.p-body-sidebar > div:has(> [href="https://adminapparel.com/"]) + br
+
 ! == M365 Copilot ==
 ! Upgrade button in left sidebar
 m365.cloud.microsoft##.___1qpkefa:has([data-testid="upgrade-copilot"])
