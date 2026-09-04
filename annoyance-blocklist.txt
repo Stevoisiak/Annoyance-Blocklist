@@ -38,6 +38,8 @@ theverge.com##._1fwf6sa8
 crunchyroll.com##[class^="footer-socials--"]
 ! Google preferred source
 futurism.com##.item-wrapper--google-add
+! "Follow us" block
+www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
 ! -- https://hevodata.com/learn/airflow-sql-server/
 ! Share buttons
