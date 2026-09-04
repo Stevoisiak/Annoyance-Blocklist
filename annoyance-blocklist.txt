@@ -20,6 +20,7 @@ www.analyticsmania.com##[data-formkit-toggle]
 futurism.com##.recurrent-newsletter-block
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
+mylesmarino.com##.embeddable-buttondown-form
 
 ! == Social ==
 ! Footer
