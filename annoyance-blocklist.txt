@@ -37,6 +37,7 @@ www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
 geeksforgeeks.org##.footer-container_branding-social
 hevodata.com##.social-handle
 linuxjournal.com##.footer-heading
+www.mozilla.org##.moz24-footer-socials
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
