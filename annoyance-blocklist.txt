@@ -31,6 +31,7 @@ code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
 docs.redhat.com##.social-links
 earth.com##[class^="Footer_social_bar__"]
+fandom.com##.global-footer__section-social-links
 forums.opera.com##.hf__social-icons
 www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
 geeksforgeeks.org##.footer-container_branding-social
