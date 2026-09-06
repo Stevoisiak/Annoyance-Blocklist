@@ -4,6 +4,7 @@
 
 ! == Cookie ==
 auth.opera.com##.modal-type-cookie-consent
+hevodata.com##.cookie-consent-anchor
 
 ! == Generic ==
 ! Google preferred source
@@ -181,8 +182,6 @@ hevodata.com##.webinar-banners-wrapper
 hevodata.com##.intercom-lightweight-app
 ! Floating scroll up icon
 hevodata.com##.topbutton
-! Cookies
-hevodata.com##.cookie-consent-anchor
 ! Promo at bottom of article
 hevodata.com##.footer-cta-banner
 
