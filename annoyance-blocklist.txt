@@ -43,6 +43,7 @@ investor.vanguard.com##[class^="social-heading-"]
 investor.vanguard.com##[class^="social-row-"]
 linuxjournal.com##.footer-heading
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
+nystateofhealth.ny.gov##.brands
 principal.com##.pds-c-footer__social-icons
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
