@@ -16,12 +16,13 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ||accounts.google.com/gsi/*$xhr,script,3p
 
 ! == Newsletter ==
-www.analyticsmania.com##form[action$="/subscriptions"]
-www.analyticsmania.com##[data-formkit-toggle]
+dropout.tv##div:has(> #footer-newsletter-form) > *
 futurism.com##.recurrent-newsletter-block
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
 qz.com##.my-8.w-full
+www.analyticsmania.com##form[action$="/subscriptions"]
+www.analyticsmania.com##[data-formkit-toggle]
 
 ! == Social ==
 ! Footer
