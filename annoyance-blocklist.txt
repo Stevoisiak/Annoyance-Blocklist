@@ -55,6 +55,7 @@ whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
 www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
 www.helloklarity.com##[class^="s_socialLink__"]
 www.vectorsolutions.com##.social
+www.virtusa.com##.social-links
 
 ! Footer (logged in)
 crunchyroll.com##[class^="footer-socials--"]
