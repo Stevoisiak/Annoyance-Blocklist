@@ -4,7 +4,6 @@
 
 ! == Cookie ==
 auth.opera.com##.modal-type-cookie-consent
-insider.razer.com##[data-css-anchor="cookie-banner"]
 
 ! == Generic ==
 ! Google preferred source
@@ -21,7 +20,6 @@ www.analyticsmania.com##[data-formkit-toggle]
 futurism.com##.recurrent-newsletter-block
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
-mylesmarino.com##.embeddable-buttondown-form
 
 ! == Social ==
 ! Footer
@@ -41,8 +39,6 @@ www.mozilla.org##.moz24-footer-socials
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
-www.wral.com##.social-links
-xhamster.com##[class^="socials-"] > a
 ! Footer (logged in)
 crunchyroll.com##[class^="footer-socials--"]
 ! Google preferred source
@@ -57,11 +53,6 @@ hevodata.com##.sharing-options-list
 ! -- https://kagi.com/search?q=test
 ! Footer "Share this search"
 kagi.com##._0_share_url_footer
-
-! Google preferred source
-www.bloomberg.com##div:has(> [class*="PreferUs_preferUsTextButton__"])
-www.forbes.com##[data-testid="googleCTA"]
-www.techspot.com##.google-preferred
 
 ! -------------------------------
 
