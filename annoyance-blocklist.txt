@@ -2,7 +2,7 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
-! == Cookie ==
+! == Cookies ==
 auth.opera.com##.modal-type-cookie-consent
 hevodata.com##.cookie-consent-anchor
 
@@ -21,6 +21,7 @@ www.analyticsmania.com##[data-formkit-toggle]
 futurism.com##.recurrent-newsletter-block
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
+qz.com##.my-8.w-full
 
 ! == Social ==
 ! Footer
@@ -46,11 +47,10 @@ futurism.com##.item-wrapper--google-add
 ! "Follow us" block
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
-! -- https://hevodata.com/learn/airflow-sql-server/
 ! Share buttons
 hevodata.com##.sharing-options-list
+qz.com##.w-full > .flex.items-center.gap-2
 
-! -- https://kagi.com/search?q=test
 ! Footer "Share this search"
 kagi.com##._0_share_url_footer
 
