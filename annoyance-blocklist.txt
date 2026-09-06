@@ -38,6 +38,7 @@ forums.opera.com##.hf__social-icons
 geeksforgeeks.org##.footer-container_branding-social
 helloklarity.com##[class^="s_socialLink__"]
 hevodata.com##.social-handle
+hrblock.com##.social-media
 investor.vanguard.com##[class^="social-heading-"]
 investor.vanguard.com##[class^="social-row-"]
 linuxjournal.com##.footer-heading
