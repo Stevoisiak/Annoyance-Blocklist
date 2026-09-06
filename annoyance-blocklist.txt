@@ -25,6 +25,7 @@ qz.com##.my-8.w-full
 
 ! == Social ==
 ! Footer
+androidpolice.com##.footer-social
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 arstechnica.com##.site-footer-statement > .mt-4
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
@@ -40,9 +41,13 @@ linuxjournal.com##.footer-heading
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
+whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
+
 ! Footer (logged in)
 crunchyroll.com##[class^="footer-socials--"]
+
 ! Google preferred source
+androidpolice.com##.w-google-addus-btn
 futurism.com##.item-wrapper--google-add
 ! "Follow us" block
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
