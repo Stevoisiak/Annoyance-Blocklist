@@ -28,6 +28,7 @@ www.analyticsmania.com##[data-formkit-toggle]
 ! Footer
 androidpolice.com##.footer-social
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
+apps.labor.ny.gov##.social
 arstechnica.com##.site-footer-statement > .mt-4
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
