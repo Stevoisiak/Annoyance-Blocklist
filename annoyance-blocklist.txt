@@ -41,6 +41,7 @@ linuxjournal.com##.footer-heading
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
+tv.youtube.com##.lb-footer__social
 whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
 
 ! Footer (logged in)
