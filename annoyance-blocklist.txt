@@ -33,6 +33,7 @@ arstechnica.com##.site-footer-statement > .mt-4
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
 docs.redhat.com##.social-links
+dol.ny.gov##.social-media
 earth.com##[class^="Footer_social_bar__"]
 fandom.com##.global-footer__section-social-links
 forums.opera.com##.hf__social-icons
