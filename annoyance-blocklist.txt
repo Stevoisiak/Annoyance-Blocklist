@@ -44,6 +44,7 @@ safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
 tv.youtube.com##.lb-footer__social
 whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
+www.helloklarity.com##[class^="s_socialLink__"]
 www.vectorsolutions.com##.social
 
 ! Footer (logged in)
