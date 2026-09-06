@@ -43,6 +43,7 @@ safe.ai##.social-link-wrapper:style(visibility: hidden)
 theverge.com##._1fwf6sa8
 tv.youtube.com##.lb-footer__social
 whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
+www.vectorsolutions.com##.social
 
 ! Footer (logged in)
 crunchyroll.com##[class^="footer-socials--"]
