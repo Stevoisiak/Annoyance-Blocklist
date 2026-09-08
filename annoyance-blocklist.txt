@@ -130,6 +130,8 @@ www.ubackup.com###back-top
 ! Undismissable header banner for airflow summit
 airflow.apache.org##header > [href="https://airflowsummit.org"]
 airflow.apache.org##header:has(> [href="https://airflowsummit.org"]) > nav:style(top: 0px !important)
+! Footer community/social media links
+airflow.apache.org##.footer-section__media-section
 
 ! == Apache Arrow ==
 ! -- https://arrow.apache.org/docs/python/parquet.html
