@@ -346,6 +346,11 @@ www.reddit.com##[name="PromotePostButton_PromB1"]
 ! Sidebar - Settings
 www.reddit.com##.profile-settings-item:has([href="/avatar"])
 
+! == Reuters ==
+! -- https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/
+! Follow companies widget
+reuters.com##[data-testid="ContextWidget"]:has([role="tablist"] > [data-testid="companies-tab"]:only-child)
+
 ! == Rule 34 ==
 ! Header button
 rule34.xxx##li:has(> [href="https://rule34.xxx/index.php?page=icame"])
