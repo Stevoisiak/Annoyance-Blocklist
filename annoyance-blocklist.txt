@@ -414,8 +414,10 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget--item:has(.iconPencilSm) + .s-sidebarwidget--header:style(border-top-width: 0 !important)
 ! * Hide section if all items are blog posts
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-sidebarwidget__yellow:not(:has(.svg-icon:not(.iconPencilSm)))
+! Right sidebar - Community activity/Popular tags
+stackoverflow.com##[id^="fragment-container-"]
 ! Right sidebar - Popular tags - Blank tag
-stackoverflow.com##.s-sidebarwidget--item > .s-tag[href="https://stackoverflow.com/questions/tagged/"]
+! stackoverflow.com##.s-sidebarwidget--item > .s-tag[href="https://stackoverflow.com/questions/tagged/"]
 
 ! -- https://stackoverflow.com/questions/37770065/getting-permission-to-execute-a-bash-script
 ! Copy button on code snippets
