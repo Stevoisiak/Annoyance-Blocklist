@@ -80,6 +80,7 @@ www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 hevodata.com##.sharing-options-list
 news12.com##[data-share-container]
+nytimes.com##[data-testid="share-tools-list"] > li:has([aria-label="More sharing options ..."])
 qz.com##.w-full > .flex.items-center.gap-2
 ! -- https://connecticut.news12.com/pages/connecticut-events#!/details/the-glass-house-public-tour-season/18331959/2026-08-24T09
 news12.com##.csShare
