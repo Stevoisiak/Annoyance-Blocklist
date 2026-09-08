@@ -421,6 +421,14 @@ stackoverflow.com##.s-sidebarwidget--item > .s-tag[href="https://stackoverflow.c
 ! Copy button on code snippets
 stackoverflow.com##.js-copy-button
 
+! -- https://stackoverflow.com/questions/74920988/how-to-run-independent-requirements-txt-file-in-apache-airflow-dag
+! Collective indicator (question info)
+stackoverflow.com##.flex--item.mb8.fc-black-400:has(> .iconStarVerified)
+! Collective indicator (sidebar)
+stackoverflow.com##.sidebar-subcommunity
+! Collective indicator (tags)
+stackoverflow.com##.post-taglist .subcommunity-topic-avatar
+
 ! == StatusGator ==
 ! -- https://statusgator.com/services/github
 ! Header banner for chrome extension
