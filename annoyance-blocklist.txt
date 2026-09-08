@@ -80,6 +80,7 @@ futurism.com##.item-wrapper--google-add
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
 ! Header
+gamesradar.com##[data-testid="buttons-social"]
 windowscentral.com##.flexisites-social
 
 ! Share buttons
