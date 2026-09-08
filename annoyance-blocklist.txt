@@ -16,6 +16,7 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ||accounts.google.com/gsi/*$xhr,script,3p
 
 ! == Newsletter ==
+cnbc.com##.CNBCFooter-sectionItem:has(> [href="/sign-up-for-cnbc-newsletters/"])
 dropout.tv##div:has(> #footer-newsletter-form) > *
 futurism.com##.recurrent-newsletter-block
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
@@ -49,6 +50,7 @@ nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything
 nystateofhealth.ny.gov##.brands
 principal.com##.pds-c-footer__social-icons
 safe.ai##.social-link-wrapper:style(visibility: hidden)
+softonic.com#?#.rxEyu2.EtNpvF.OMlpov:has-text(Social media)
 theverge.com##._1fwf6sa8
 treasurydirect.gov##.col-12:has(> .social-icons) > *
 tv.youtube.com##.lb-footer__social
