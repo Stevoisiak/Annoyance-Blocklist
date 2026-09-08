@@ -39,6 +39,9 @@ androidpolice.com##.footer-social
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 apps.labor.ny.gov##.social
 arstechnica.com##.site-footer-statement > .mt-4
+astronomer.io##.acds-footer__social
+! * -- https://www.astronomer.io/docs/cli/v1.44/install-cli
+astronomer.io###footer .gap-4:has(> [href="https://x.com/astronomerio"])
 bbc.com##[data-testid="social-follow-us-container"]
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
