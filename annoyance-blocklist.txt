@@ -25,6 +25,7 @@ futurism.com##.recurrent-newsletter-block
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
 qz.com##.my-8.w-full
+stardock.com##.subscribe
 tecmint.com###custom_html-12
 thehill.com##.menu-item:has(> [data-link-label="Newsletters"])
 tomsguide.com##[data-before-rewrite-localise="/newsletter"]
