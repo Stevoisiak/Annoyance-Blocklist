@@ -23,6 +23,7 @@ hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
 qz.com##.my-8.w-full
 thehill.com##.menu-item:has(> [data-link-label="Newsletters"])
+tomsguide.com##[data-before-rewrite-localise="/newsletter"]
 www.analyticsmania.com##form[action$="/subscriptions"]
 www.analyticsmania.com##[data-formkit-toggle]
 
