@@ -459,6 +459,9 @@ www.udemy.com##section[aria-label="Marketing notification from Udemy"]
 ! Subscription promo block in middle of page (logged in)
 www.udemy.co##[data-testid="pp-upsell-banner"]
 
+! == Visual Studio --
+code.visualstudio.com##.updates-banner
+
 ! == X/Twitter ==
 ! Left sidebar
 x.com##[href="/i/jf/creators/studio"][aria-label="Creator Studio"]
