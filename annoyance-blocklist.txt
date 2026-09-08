@@ -47,6 +47,7 @@ bbc.com##[data-testid="social-follow-us-container"]
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
 disqus.com###thread-share-bar
+docs.docker.com##footer div.flex:has(> [href="https://x.com/docker/"]) > a
 docs.redhat.com##.social-links
 dol.ny.gov##.social-media
 earth.com##[class^="Footer_social_bar__"]
