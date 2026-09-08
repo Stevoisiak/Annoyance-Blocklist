@@ -54,6 +54,8 @@ principal.com##.pds-c-footer__social-icons
 reuters.com##[class^="site-footer-module__social__"]
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 softonic.com#?#.rxEyu2.EtNpvF.OMlpov:has-text(Social media)
+thehill.com##.mobile-text:has-text(Follow Us On):style(visibility: hidden)
+thehill.com##.network-footer__actions__social-buttons:style(visibility: hidden)
 theverge.com##._1fwf6sa8
 treasurydirect.gov##.col-12:has(> .social-icons) > *
 tv.youtube.com##.lb-footer__social
