@@ -2,6 +2,9 @@
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
 
+! == Adblock Warning ==
+freefrontend.com##.adblock-notice
+
 ! == Cookies ==
 auth.opera.com##.modal-type-cookie-consent
 hevodata.com##.cookie-consent-anchor
@@ -45,6 +48,8 @@ earth.com##[class^="Footer_social_bar__"]
 eurogamer.de,eurogamer.es,eurogamer.net,eurogamer.pl,eurogamer.pt##.footer-nav--social
 fandom.com##.global-footer__section-social-links
 forums.opera.com##.hf__social-icons
+freefrontend.com##.sidebar-footer > .nav-title
+freefrontend.com##.social-links
 geeksforgeeks.org##.footer-container_branding-social
 helloklarity.com##[class^="s_socialLink__"]
 hevodata.com##.social-handle
