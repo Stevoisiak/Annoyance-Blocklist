@@ -77,6 +77,9 @@ futurism.com##.item-wrapper--google-add
 ! "Follow us" block
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
+! Header
+windowscentral.com##.flexisites-social
+
 ! Share buttons
 bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 hevodata.com##.sharing-options-list
