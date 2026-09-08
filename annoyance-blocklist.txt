@@ -27,6 +27,7 @@ www.analyticsmania.com##[data-formkit-toggle]
 
 ! == Social ==
 ! Footer
+abc7ny.com##.footer-icons > a
 androidpolice.com##.footer-social
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 apps.labor.ny.gov##.social
