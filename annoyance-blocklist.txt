@@ -33,6 +33,7 @@ androidpolice.com##.footer-social
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
 apps.labor.ny.gov##.social
 arstechnica.com##.site-footer-statement > .mt-4
+bbc.com##[data-testid="social-follow-us-container"]
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
 disqus.com###thread-share-bar
@@ -75,6 +76,7 @@ futurism.com##.item-wrapper--google-add
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
 ! Share buttons
+bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 hevodata.com##.sharing-options-list
 qz.com##.w-full > .flex.items-center.gap-2
 
