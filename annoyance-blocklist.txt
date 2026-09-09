@@ -20,6 +20,8 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 
 ! == Newsletter ==
 art-week.com##button.fixed:has(.lucide-mail)
+axios.com##[data-cy="nav-item-newsletters"]
+axios.com##footer div:has(> [href="https://www.axios.com/newsletters"])
 cnbc.com##.CNBCFooter-sectionItem:has(> [href="/sign-up-for-cnbc-newsletters/"])
 dropout.tv##div:has(> #footer-newsletter-form) > *
 futurism.com##.recurrent-newsletter-block
