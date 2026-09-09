@@ -52,6 +52,7 @@ docs.redhat.com##.social-links
 dol.ny.gov##.social-media
 earth.com##[class^="Footer_social_bar__"]
 eurogamer.de,eurogamer.es,eurogamer.net,eurogamer.pl,eurogamer.pt##.footer-nav--social
+exophase.com##.links-list:has(> [href="https://twitter.com/exophase"])
 fandom.com##.global-footer__section-social-links
 forums.opera.com##.hf__social-icons
 freefrontend.com##.sidebar-footer > .nav-title
