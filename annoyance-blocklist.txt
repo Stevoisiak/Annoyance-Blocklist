@@ -19,6 +19,7 @@ www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ||accounts.google.com/gsi/*$xhr,script,3p
 
 ! == Newsletter ==
+art-week.com##button.fixed:has(.lucide-mail)
 cnbc.com##.CNBCFooter-sectionItem:has(> [href="/sign-up-for-cnbc-newsletters/"])
 dropout.tv##div:has(> #footer-newsletter-form) > *
 futurism.com##.recurrent-newsletter-block
