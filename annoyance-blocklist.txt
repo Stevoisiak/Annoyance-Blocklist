@@ -55,6 +55,7 @@ fandom.com##.global-footer__section-social-links
 forums.opera.com##.hf__social-icons
 freefrontend.com##.sidebar-footer > .nav-title
 freefrontend.com##.social-links
+futurism.com##.footer-socials-wrapper
 geeksforgeeks.org##.footer-container_branding-social
 helloklarity.com##[class^="s_socialLink__"]
 hevodata.com##.social-handle
