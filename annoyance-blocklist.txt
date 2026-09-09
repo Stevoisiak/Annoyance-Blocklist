@@ -29,6 +29,7 @@ stardock.com##.subscribe
 tecmint.com###custom_html-12
 thehill.com##.menu-item:has(> [data-link-label="Newsletters"])
 tomsguide.com##[data-before-rewrite-localise="/newsletter"]
+whitehouse.gov##.wp-block-whitehouse-footer__newsletter
 www.analyticsmania.com##form[action$="/subscriptions"]
 www.analyticsmania.com##[data-formkit-toggle]
 
