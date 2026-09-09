@@ -96,6 +96,7 @@ gamesradar.com##[data-testid="buttons-social"]
 windowscentral.com##.flexisites-social
 
 ! Share buttons
+apple.com##.sharesheet
 bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 hevodata.com##.sharing-options-list
 news12.com##[data-share-container]
