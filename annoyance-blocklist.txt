@@ -38,6 +38,7 @@ www.analyticsmania.com##[data-formkit-toggle]
 
 ! == Social ==
 ! Author
+destructoid.com##.social
 techcrunch.com##.wp-block-tc23-author-card-social
 
 ! Footer
