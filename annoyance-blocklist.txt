@@ -37,6 +37,9 @@ www.analyticsmania.com##form[action$="/subscriptions"]
 www.analyticsmania.com##[data-formkit-toggle]
 
 ! == Social ==
+! Author
+techcrunch.com##.wp-block-tc23-author-card-social
+
 ! Footer
 abc7ny.com##.footer-icons > a
 achievementhunting.com###socialmedia
