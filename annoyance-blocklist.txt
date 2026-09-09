@@ -62,7 +62,6 @@ hrblock.com##.social-media
 investor.vanguard.com##[class^="social-heading-"]
 investor.vanguard.com##[class^="social-row-"]
 linuxjournal.com##.footer-heading
-neowin.net##.footer-top-col:has(> .footer-social)
 news12.com##.gydKPK
 nintendoeverything.com##.footer p:has(> [href="https://twitter.com/NinEverything"])
 nystateofhealth.ny.gov##.brands
@@ -93,7 +92,6 @@ www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
 ! Header
 gamesradar.com##[data-testid="buttons-social"]
-neowin.net##.nav-social-alt
 windowscentral.com##.flexisites-social
 
 ! Share buttons
@@ -108,9 +106,6 @@ news12.com##.csShare
 
 ! Footer "Share this search"
 kagi.com##._0_share_url_footer
-
-! Author social media
-neowin.net##.twitter-link
 
 ! -------------------------------
 
