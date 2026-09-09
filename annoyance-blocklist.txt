@@ -245,6 +245,8 @@ hentai2read.com##.btn-default[href="/gaming"]
 ! Sidebar items
 hentai2read.com##.nav-main [href="https://hentai2read.com/promos/black-friday.html"]
 hentai2read.com##.nav-main [href="https://mysexgames.com/"]
+! Ads in manga list
+hentai2read.com##div:has(> .book-grid-item-container[data-mid="1"])
 
 ! == Hevo ==
 ! -- https://hevodata.com/learn/airflow-sql-server/
