@@ -506,6 +506,8 @@ www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-s
 ! -- Livestream
 ! Livestream - Chat top fans
 www.youtube.com###viewer-leaderboard-entry-point
+! * Crowns next to usernames
+www.youtube.com###before-content-buttons.yt-live-chat-text-message-renderer
 
 ! == YouTube Studio ==
 ! -- Create stream
