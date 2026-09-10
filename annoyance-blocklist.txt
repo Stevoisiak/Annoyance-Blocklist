@@ -107,6 +107,8 @@ www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
 www.helloklarity.com##[class^="s_socialLink__"]
 www.vectorsolutions.com##.social
 www.virtusa.com##.social-links
+! -- https://www.yahoo.com/news/
+www.yahoo.com###footer > div:has([href="https://x.com/yahoonews"])
 
 ! Footer (logged in)
 crunchyroll.com##[class^="footer-socials--"]
