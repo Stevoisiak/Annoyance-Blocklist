@@ -128,6 +128,8 @@ windowscentral.com##.flexisites-social
 apple.com##.sharesheet
 bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 hevodata.com##.sharing-options-list
+! -- https://kotaku.com/marvels-wolverine-review-insomniac-logan-jean-spider-man-2000732912
+kotaku.com##div.mt-3:has(> [href^="https://www.reddit.com/submit?"])
 news12.com##[data-share-container]
 nytimes.com##[data-testid="floating-button"]:has([aria-label="More sharing options ..."])
 nytimes.com##[data-testid="share-tools-list"] > li:has([aria-label="More sharing options ..."])
