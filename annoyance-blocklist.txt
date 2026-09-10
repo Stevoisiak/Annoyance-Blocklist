@@ -66,6 +66,7 @@ fandom.com##.global-footer__section-social-links
 forums.opera.com##.hf__social-icons
 futurism.com##.footer-socials-wrapper
 geeksforgeeks.org##.footer-container_branding-social
+gematsu.com##.gematsu-footer__social
 helloklarity.com##[class^="s_socialLink__"]
 hevodata.com##.social-handle
 hrblock.com##.social-media
