@@ -36,6 +36,14 @@ whitehouse.gov##.wp-block-whitehouse-footer__newsletter
 www.analyticsmania.com##form[action$="/subscriptions"]
 www.analyticsmania.com##[data-formkit-toggle]
 
+! Footer
+deadline.com##section.pmc-a-grid-item:has(> [name="newsletter-module-form"]):style(visibility: hidden)
+
+! Header
+! * use :remove() to get rid of line separator
+deadline.com##.o-nav__list-item:has(> [href="https://preferences.mail.deadline.com/preferences"])
+deadline.com##.o-nav__list-item:has(> [href="https://preferences.mail.deadline.com/preferences"]):remove()
+
 ! == Social ==
 ! Author
 destructoid.com##.social
@@ -56,6 +64,7 @@ astronomer.io###footer .gap-4:has(> [href="https://x.com/astronomerio"])
 bbc.com##[data-testid="social-follow-us-container"]
 code.visualstudio.com##.footer-social > .links:style(visibility: hidden)
 collinsdictionary.com##.reseauxDesktop
+deadline.com##section.pmc-a-grid-item:has(> .o-social-list):style(visibility: hidden)
 disqus.com###thread-share-bar
 docs.docker.com##footer div.flex:has(> [href="https://x.com/docker/"]) > a
 docs.redhat.com##.social-links
@@ -107,6 +116,7 @@ futurism.com##.item-wrapper--google-add
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
 ! Header
+deadline.com##div:has(> #header-social-list)
 gamesradar.com##[data-testid="buttons-social"]
 windowscentral.com##.flexisites-social
 
