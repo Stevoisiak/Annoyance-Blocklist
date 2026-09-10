@@ -156,6 +156,8 @@ airflow.apache.org##header > [href="https://airflowsummit.org"]
 airflow.apache.org##header:has(> [href="https://airflowsummit.org"]) > nav:style(top: 0px !important)
 ! Footer community/social media links
 airflow.apache.org##.footer-section__media-section
+! Un-pin floating "Suggest a change" button
+airflow.apache.org##.base-layout--button:style(bottom: unset !important)
 
 ! == Apache Arrow ==
 ! -- https://arrow.apache.org/docs/python/parquet.html
