@@ -89,6 +89,7 @@ treasurydirect.gov##.col-12:has(> .social-icons) > *
 tv.youtube.com##.lb-footer__social
 variety.com##.o-nav:has([href="https://twitter.com/variety"])
 whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
+wordcounter.net##.col-md-2:has(.twitter)
 www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
 www.helloklarity.com##[class^="s_socialLink__"]
 www.vectorsolutions.com##.social
