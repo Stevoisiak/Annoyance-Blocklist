@@ -60,6 +60,7 @@ docs.docker.com##footer div.flex:has(> [href="https://x.com/docker/"]) > a
 docs.redhat.com##.social-links
 dol.ny.gov##.social-media
 earth.com##[class^="Footer_social_bar__"]
+edubirdie.com##.footer__social-wrap
 eurogamer.de,eurogamer.es,eurogamer.net,eurogamer.pl,eurogamer.pt##.footer-nav--social
 exophase.com##.links-list:has(> [href="https://twitter.com/exophase"])
 fandom.com##.global-footer__section-social-links
