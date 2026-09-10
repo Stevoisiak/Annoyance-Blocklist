@@ -47,6 +47,7 @@ achievementhunting.com###socialmedia
 adn.com##.social-list
 androidpolice.com##.footer-social
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
+anthropic.com##.footer_bottom_list:has([href="https://x.com/AnthropicAI"])
 apps.labor.ny.gov##.social
 arstechnica.com##.site-footer-statement > .mt-4
 astronomer.io##.acds-footer__social
