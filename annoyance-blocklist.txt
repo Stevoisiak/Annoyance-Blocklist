@@ -100,6 +100,7 @@ timesofisrael.com##.footer-social-icons
 treasurydirect.gov##.col-12:has(> .social-icons) > *
 tv.youtube.com##.lb-footer__social
 variety.com##.o-nav:has([href="https://twitter.com/variety"])
+vox.com##._1pxgsum8._1pxgsum9._1pxgsum2:has([href="https://www.facebook.com/vox"])
 whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
 wordcounter.net##.col-md-2:has(.twitter)
 www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
