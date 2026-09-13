@@ -169,6 +169,10 @@ airflow.apache.org##.base-layout--button:style(bottom: unset !important)
 ! "Back to top" button
 arrow.apache.org###pst-back-to-top
 
+! == Ars Technica ==
+! Footer - AI Policy
+arstechnica.com##.menu-item:has(> [href="https://arstechnica.com/ai-policy/"])
+
 ! == Bing ==
 ! -- https://www.bing.com/search?q=test
 ! Footer - "New" label by Terms
