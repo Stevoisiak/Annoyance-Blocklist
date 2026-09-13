@@ -46,17 +46,12 @@ deadline.com##.o-nav__list-item:has(> [href="https://preferences.mail.deadline.c
 deadline.com##.o-nav__list-item:has(> [href="https://preferences.mail.deadline.com/preferences"]):remove()
 
 ! == Social ==
-! Author
-destructoid.com##.social
-techcrunch.com##.wp-block-tc23-author-card-social
-
 ! Footer
 abc7ny.com##.footer-icons > a
 achievementhunting.com###socialmedia
 adn.com##.social-list
 androidpolice.com##.footer-social
 answeroverflow.com##.bottom-0 .flex.items-center.gap-3
-anthropic.com##.footer_bottom_list:has([href="https://x.com/AnthropicAI"])
 apps.labor.ny.gov##.social
 arstechnica.com##.site-footer-statement > .mt-4
 astronomer.io##.acds-footer__social
@@ -71,14 +66,12 @@ docs.docker.com##footer div.flex:has(> [href="https://x.com/docker/"]) > a
 docs.redhat.com##.social-links
 dol.ny.gov##.social-media
 earth.com##[class^="Footer_social_bar__"]
-edubirdie.com##.footer__social-wrap
 eurogamer.de,eurogamer.es,eurogamer.net,eurogamer.pl,eurogamer.pt##.footer-nav--social
 exophase.com##.links-list:has(> [href="https://twitter.com/exophase"])
 fandom.com##.global-footer__section-social-links
 forums.opera.com##.hf__social-icons
 futurism.com##.footer-socials-wrapper
 geeksforgeeks.org##.footer-container_branding-social
-gematsu.com##.gematsu-footer__social
 helloklarity.com##[class^="s_socialLink__"]
 hevodata.com##.social-handle
 hrblock.com##.social-media
@@ -102,7 +95,6 @@ tv.youtube.com##.lb-footer__social
 variety.com##.o-nav:has([href="https://twitter.com/variety"])
 vox.com##._1pxgsum8._1pxgsum9._1pxgsum2:has([href="https://www.facebook.com/vox"])
 whatsapp.com##footer div:has(> [href="https://x.com/whatsapp"])
-wordcounter.net##.col-md-2:has(.twitter)
 www.gamespot.com##[aria-label="Follow Us Menu"]:style(visibility: hidden)
 www.helloklarity.com##[class^="s_socialLink__"]
 www.vectorsolutions.com##.social
