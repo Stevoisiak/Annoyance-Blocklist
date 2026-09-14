@@ -177,6 +177,11 @@ www.bing.com###b_legalnotif
 ||$uritransform=/sort%3A/order%3A/i,domain=donmai.us|e621.net
 !#endif
 
+! == Business Insider ==
+! -- https://www.businessinsider.com/answers#test
+! Temporary blank space when search results are loading (And also ads)
+businessinsider.com##.ad
+
 ! == ChatGPT ==
 ! Upsell notice above chat field
 chatgpt.com###thread [data-prompt-textarea-header]
