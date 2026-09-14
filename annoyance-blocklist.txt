@@ -494,6 +494,10 @@ www.udemy.co##[data-testid="pp-upsell-banner"]
 ! == Visual Studio --
 code.visualstudio.com##.updates-banner
 
+! == Wikipedia ==
+! Donation banners
+en.wikipedia.org##.cn-fundraising
+
 ! == X/Twitter ==
 ! Left sidebar
 x.com##[href="/i/jf/creators/studio"][aria-label="Creator Studio"]
