@@ -38,7 +38,6 @@ www.analyticsmania.com##[data-formkit-toggle]
 
 ! Footer
 deadline.com##section.pmc-a-grid-item:has(> [name="newsletter-module-form"]):style(visibility: hidden)
-dlcompare.com##.newsletter
 us.sios.com##footer [href="https://us.sios.com/sign-up-for-the-sios-newsletter/"]
 
 ! Header
