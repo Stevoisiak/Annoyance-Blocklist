@@ -1,3 +1,4 @@
+[Adblock]
 ! Title: Stevo's Annoyance Blocklist
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Stevoisiak/Annoyance-Blocklist
