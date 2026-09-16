@@ -8,6 +8,7 @@ freefrontend.com##.adblock-notice
 
 ! == Cookies ==
 auth.opera.com##.modal-type-cookie-consent
+crunchyroll.com##.erc-anonymous-consent
 hevodata.com##.cookie-consent-anchor
 
 ! == Generic ==
