@@ -136,6 +136,10 @@ kagi.com##._0_share_url_footer
 
 ! -------------------------------
 
+! == 404 Media ==
+! Header banner promoting podcast
+www.404media.co###announcement-bar-root:has([href="https://www.404media.co/the-404-media-podcast/"])
+
 ! == AdGuard ==
 ! Header promo banner
 adguard.com##[is="promo"]
