@@ -119,6 +119,8 @@ gamesradar.com##[data-testid="buttons-social"]
 windowscentral.com##.flexisites-social
 
 ! Share buttons
+aftermath.site##.text-brd-soft:has(+ button[data-share-toggle])
+aftermath.site##button[data-share-toggle]
 apple.com##.sharesheet
 bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 hevodata.com##.sharing-options-list
