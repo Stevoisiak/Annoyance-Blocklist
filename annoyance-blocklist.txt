@@ -146,6 +146,10 @@ www.404media.co###announcement-bar-root:has([href="https://www.404media.co/the-4
 ! Header promo banner
 adguard.com##[is="promo"]
 
+! == AMC Theaters ==
+! Header banner
+www.amctheatres.com##header > [role="banner"]
+
 ! == AOMEI ==
 ! -- https://www.ubackup.com/enterprise-backup/restore-multiple-databases-sql-server-1021.html
 ! Floating table of contents that covers article
