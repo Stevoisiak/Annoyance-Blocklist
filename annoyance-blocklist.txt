@@ -571,6 +571,7 @@ studio.youtube.com##button[aria-label="Engage with your audience"] #icon-badge-t
 ! -- Create stream
 ! Notice when monetization is disabled
 studio.youtube.com###monetization-callout
+
 ! -- Dashboard
 ! Fireworks for 1 of 10 video
 !#if ext_ublock
@@ -578,10 +579,12 @@ studio.youtube.com##.celebration:remove-class(celebration)
 !#else
 studio.youtube.com#%#//scriptlet('remove-class', 'celebration')
 !#endif
+
 ! -- Content
 studio.youtube.com###podcast-list-tab
 studio.youtube.com###courses-list-tab
 studio.youtube.com###content-list-promotions-tab
+
 ! -- Video upload screen
 ! Description - Products
 studio.youtube.com###product_tagging
@@ -596,6 +599,10 @@ studio.youtube.com##.promote-after-upload
 studio.youtube.com###google-hats-survey
 ! Share links on third party sites
 studio.youtube.com##yt-third-party-share-target-section-renderer
+
+! -- Video Editor
+! Quizzes
+studio.youtube.com###entrypoint-posts-row
 
 ! == Zero To Mastery ==
 ! -- https://zerotomastery.io/blog/bash-if-file-exists/
