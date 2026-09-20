@@ -557,11 +557,15 @@ www.youtube.com###teaser-carousel:has([aria-label="Quizzes"])
 www.youtube.com###ytd-watch-info-text .yt-formatted-string[href^="/hashtag/"]
 www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-string[href^="/hashtag/"])
 
-! -- Livestream
-! Livestream - Chat top fans
-www.youtube.com###viewer-leaderboard-entry-point
+! -- Livestream chat
+! Chat top fans
+studio.youtube.com,www.youtube.com###viewer-leaderboard-entry-point
 ! * Crowns next to usernames
 www.youtube.com###before-content-buttons.yt-live-chat-text-message-renderer
+! Start Super Chat and Gift goals
+studio.youtube.com##yt-live-chat-viewer-engagement-message-renderer:has([aria-label="Start goal"])
+! Notification bubble for audience engagement
+studio.youtube.com##button[aria-label="Engage with your audience"] #icon-badge-text
 
 ! == YouTube Studio ==
 ! -- Create stream
