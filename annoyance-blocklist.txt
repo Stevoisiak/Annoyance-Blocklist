@@ -118,7 +118,6 @@ futurism.com##.item-wrapper--google-add
 ! "Follow us" block
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
 
-
 ! Header
 deadline.com##div:has(> #header-social-list)
 gamesradar.com##[data-testid="buttons-social"]
@@ -131,6 +130,7 @@ apple.com##.sharesheet
 bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 hevodata.com##.sharing-options-list
 ! -- https://kotaku.com/marvels-wolverine-review-insomniac-logan-jean-spider-man-2000732912
+kotaku.com##span:has(> .fa-share-square)
 kotaku.com##div.mt-3:has(> [href^="https://www.reddit.com/submit?"])
 news12.com##[data-share-container]
 nytimes.com##[data-testid="floating-button"]:has([aria-label="More sharing options ..."])
