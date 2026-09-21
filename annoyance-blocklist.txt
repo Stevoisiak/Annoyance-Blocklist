@@ -222,9 +222,11 @@ discord.com##.channel__972a0:has([href="/shop"])
 discord.com##.channel__972a0:has([href="/quest-home"])
 
 ! == eBay ==
-! eBay Live - Sellers who might be using genAI thumbnails
-! * GoldStandardAuction
-www.ebay.com##.carousel__snap-point:has([href="https://www.ebay.com/ebaylive/sellers/q_EImPfySam"])
+! Navbar - eBay Live button
+! TODO: Button still lowers number of items that can fit before "More" tab appears.
+!www.ebay.com##.vl-flyout-nav__js-tab:has(> [href="https://www.ebay.com/ebaylive"])
+! eBay Live section
+www.ebay.com###dp-live-events-carousel
 
 ! == Facebook ==
 ! Left sidebar - Meta Quest 3s
