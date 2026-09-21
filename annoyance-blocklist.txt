@@ -110,9 +110,11 @@ crunchyroll.com##[class^="footer-socials--"]
 
 ! Google preferred source
 androidpolice.com##.w-google-addus-btn
+futurism.com##.google-add-us-cta
 futurism.com##.item-wrapper--google-add
 ! "Follow us" block
 www.linux.org##.block:has(> [data-widget-key="linuxsocial"])
+
 
 ! Header
 deadline.com##div:has(> #header-social-list)
