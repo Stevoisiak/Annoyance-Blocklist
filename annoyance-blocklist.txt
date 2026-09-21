@@ -216,6 +216,11 @@ discord.com##.channel__972a0:has([href="/store"])
 discord.com##.channel__972a0:has([href="/shop"])
 discord.com##.channel__972a0:has([href="/quest-home"])
 
+! == eBay ==
+! eBay Live - Sellers who might be using genAI thumbnails
+! * GoldStandardAuction
+www.ebay.com##.carousel__snap-point:has([href="https://www.ebay.com/ebaylive/sellers/q_EImPfySam"])
+
 ! == Facebook ==
 ! Left sidebar - Meta Quest 3s
 www.facebook.com##[role="link"][href^="https://www.meta.com/quest/quest-3s/?utm_source=fb&utm_medium=growth&utm_campaign=fb-bookmark"]
