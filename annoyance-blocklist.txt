@@ -254,8 +254,8 @@ gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 gelbooru.com##.noticeError:has([href="https://buymyshit.moneygrubbingwhore.com/?1"])
 
 ! == GitHub ==
-! Trending Repositories
-github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
+! Header - Profile menu > Try Enterprise 
+github.com##[data-component="ActionList.Item"]:has(> [href="/organizations/enterprise_plan?ref_cta=Start%2520a%2520trial&ref_loc=user_drawer_side_panel&ref_page=Header+Avatar"])
 ! Allow standalone GitHub Copilot
 @@||github.com/github-copilot/chat$xhr,1p
 ! Allow Copilot Settings in user menu when using enterprise account
@@ -264,6 +264,10 @@ github.com##body.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) .
 ! Allow left sidebar Copilot button on enterprise account
 github.com#@#[data-testid="side-nav-menu-item-COPILOT"]
 github.com##.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) [data-testid="side-nav-menu-item-COPILOT"]
+
+! -- https://github.com/dashboard
+! Trending Repositories
+github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
 
 ! -- https://github.com/cli/cli/issues/12998
 ! Reactions button on Enterprise account
