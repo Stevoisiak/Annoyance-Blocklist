@@ -564,6 +564,8 @@ studio.youtube.com,www.youtube.com###viewer-leaderboard-entry-point
 www.youtube.com###before-content-buttons.yt-live-chat-text-message-renderer
 ! Start Super Chat and Gift goals
 studio.youtube.com##yt-live-chat-viewer-engagement-message-renderer:has([aria-label="Start goal"])
+! Premiere in progress message
+www.youtube.com##yt-live-chat-viewer-engagement-message-renderer:has([href="//support.google.com/youtube/answer/2853856?hl=en#safe"])
 ! Notification bubble for audience engagement
 studio.youtube.com##button[aria-label="Engage with your audience"] #icon-badge-text
 
