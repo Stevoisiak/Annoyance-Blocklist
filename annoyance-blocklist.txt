@@ -401,6 +401,7 @@ pureinfotech.com##.share-buttons
 
 ! == Reddit ==
 ! Left sidebar
+www.reddit.com##[slot="sr-creation-entrypoint-experiment"]
 www.reddit.com##[noun="games_drawer"]
 www.reddit.com##[noun="games_drawer"] + hr
 www.reddit.com##[noun="advertise_menu"]
