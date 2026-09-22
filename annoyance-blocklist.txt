@@ -13,7 +13,9 @@ hevodata.com##.cookie-consent-anchor
 
 ! == Generic ==
 ! Google preferred source
-##[href^="https://google.com/preferences/source?q="]
+##a[href^="https://google.com/preferences/source?q="]
+! Share on threads
+##a[href^="https://threads.net/intent/post?text="]
 ! Mid-artcle polls
 www.gamesradar.com,www.pcgamer.com,www.windowscentral.com##.kwizly-game-wrapper
 ! Sign-in with Google dialogs
