@@ -529,6 +529,10 @@ www.udemy.co##[data-testid="pp-upsell-banner"]
 ! == Visual Studio --
 code.visualstudio.com##.updates-banner
 
+! == Vox ==
+! Daily puzzle
+www.vox.com##.theqgh0[href="/21523212/crossword-puzzles-free-daily-printable"]
+
 ! == Wikipedia ==
 ! Donation banners
 en.wikipedia.org##.cn-fundraising
