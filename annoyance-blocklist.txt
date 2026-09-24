@@ -573,6 +573,10 @@ www.youtube.com##.ytContentMetadataViewModelBadge:has-text(Auto-dubbed)
 ! Comment by specific user (Base level) 
 www.youtube.com##ytd-comment-thread-renderer:has(> #comment-container > ytd-comment-view-model > #body > #author-thumbnail > #author-thumbnail-button[aria-label="@ShayyTV"])
 
+! -- https://m.youtube.com/watch?v=0iVlSNpq8i8 (mobile)
+! Header - Open App button when logged out
+m.youtube.com##.mobile-topbar-header-sign-in-button:has([aria-label="Open App"])
+
 ! -- https://www.youtube.com/watch?v=lLWEXRAnQd0
 ! Quiz below video description
 www.youtube.com###teaser-carousel:has([aria-label="Quizzes"])
