@@ -566,6 +566,7 @@ x.com##[href$="?launch_app_store=true"]
 ! -- https://www.youtube.com/ (Home feed)
 ! Playables
 www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
+m.youtube.com##ytm-rich-section-renderer:has(mini-game-card-view-model)
 ! "Looking for something different?" dialog
 www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 
