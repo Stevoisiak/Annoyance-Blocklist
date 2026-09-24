@@ -584,6 +584,10 @@ www.youtube.com###teaser-carousel:has([aria-label="Quizzes"])
 www.youtube.com###ytd-watch-info-text .yt-formatted-string[href^="/hashtag/"]
 www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-string[href^="/hashtag/"])
 
+! -- https://www.youtube.com/watch?v=j9gZYYOIG-M
+! Description - How this was made - Auto-dubbed
+www.youtube.com##.ytwHowThisWasMadeSectionViewModelBodyHeader:nth-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):nth-last-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):has-text(Auto-dubbed):upward(how-this-was-made-section-view-model)
+
 ! -- Livestream chat
 ! Chat top fans
 studio.youtube.com,www.youtube.com###viewer-leaderboard-entry-point
