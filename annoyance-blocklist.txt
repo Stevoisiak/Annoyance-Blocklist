@@ -49,6 +49,7 @@ us.sios.com##footer [href="https://us.sios.com/sign-up-for-the-sios-newsletter/"
 ! * use :remove() to get rid of line separator
 deadline.com##.o-nav__list-item:has(> [href="https://preferences.mail.deadline.com/preferences"])
 deadline.com##.o-nav__list-item:has(> [href="https://preferences.mail.deadline.com/preferences"]):remove()
+pbs.org##.nav__link--subscribe
 
 ! Hamburger menu
 futurism.com##.menu-item:has(> [href="https://futurism.beehiiv.com/subscribe"])
