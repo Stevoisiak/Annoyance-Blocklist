@@ -595,6 +595,11 @@ www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-s
 ! Description - How this was made - Auto-dubbed
 www.youtube.com##.ytwHowThisWasMadeSectionViewModelBodyHeader:nth-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):nth-last-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):has-text(Auto-dubbed):upward(how-this-was-made-section-view-model)
 
+! -- https://www.youtube.com/watch?v=PgxpzexpOwI
+! Sponsored YouTube comment
+www.youtube.com##ytd-comment-thread-renderer:has(ytw-pinned-comment-badge-renderer):has(> #comment-container:has-text(/use (my )?code [\w“”]+ to get (.*)[$%]/i))
+m.youtube.com##ytm-comment-thread-renderer:has(ytw-pinned-comment-badge-renderer):has(> ytm-comment-renderer:has-text(/use (my )?code [\w“”]+ to get (.*)[$%]/i))
+
 ! -- Livestream chat
 ! Chat top fans
 studio.youtube.com,www.youtube.com###viewer-leaderboard-entry-point
