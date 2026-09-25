@@ -386,6 +386,8 @@ nhentai.net##.kurohebi-slot
 outlook.live.com###MainModule .LBktY > .GssDD
 
 ! == PC Gamer ==
+! Header - Subscribe button
+www.pcgamer.com##.nav-subscribe
 ! "Join The Club" header banner
 www.pcgamer.com##.custom-widget-membership
 
