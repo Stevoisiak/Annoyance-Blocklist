@@ -95,7 +95,7 @@ principal.com##.pds-c-footer__social-icons
 reuters.com##[class^="site-footer-module__social__"]
 safe.ai##.social-link-wrapper:style(visibility: hidden)
 softonic.com#?#.rxEyu2.EtNpvF.OMlpov:has-text(Social media)
-thehill.com##.mobile-text:has-text(Follow Us On):style(visibility: hidden)
+thehill.com#?#.mobile-text:has-text(Follow Us On):style(visibility: hidden)
 thehill.com##.network-footer__actions__social-buttons:style(visibility: hidden)
 theverge.com##._1fwf6sa8
 timesofisrael.com##.footer-social-icons
@@ -208,7 +208,7 @@ chatgpt.com###thread [data-prompt-textarea-header]
 
 ! == Claude ==
 ! Notice to use desktop app
-claude.ai##[data-alert-band-wrapper="true"]:has(button:has-text(Get desktop app))
+claude.ai#?#[data-alert-band-wrapper="true"]:has(button:has-text(Get desktop app))
 
 ! == Codeberg ==
 ! Header banner for TOS change about AI repos
@@ -345,7 +345,7 @@ www.linux.org##.p-body-sidebar > div:has(> [href="https://adminapparel.com/"]) +
 ! Upgrade button in left sidebar
 m365.cloud.microsoft##.___1qpkefa:has([data-testid="upgrade-copilot"])
 ! Upsell at bottom of AI response
-m365.cloud.microsoft##[data-testid="copilot-message-div"] > .___1ce2hhi:has-text("Get help with all your work")
+m365.cloud.microsoft#?#[data-testid="copilot-message-div"] > .___1ce2hhi:has-text("Get help with all your work")
 ! Tip dialogs (like promo for mobile app) 
 m365.cloud.microsoft##[role="dialog"][aria-label="Tips"]
 
@@ -571,14 +571,14 @@ x.com##[href$="?launch_app_store=true"]
 www.youtube.com##ytd-rich-section-renderer:has([is-mini-game-card-shelf])
 m.youtube.com##ytm-rich-section-renderer:has(mini-game-card-view-model)
 ! "Explore more topics" section
-www.youtube.com##.ytShelfHeaderLayoutTitle:has-text(Explore more topics):upward(ytd-rich-section-renderer)
-m.youtube.com##.ytmChipsShelfViewModelChipsShelfTitle:has-text(Explore more topics):upward(ytm-rich-section-renderer)
+www.youtube.com#?#.ytShelfHeaderLayoutTitle:has-text(Explore more topics):upward(ytd-rich-section-renderer)
+m.youtube.com#?#.ytmChipsShelfViewModelChipsShelfTitle:has-text(Explore more topics):upward(ytm-rich-section-renderer)
 ! "Looking for something different?" dialog
 www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 
 ! -- Video page
 ! Auto-dubbed label on related video
-www.youtube.com##.ytContentMetadataViewModelBadge:has-text(Auto-dubbed)
+www.youtube.com#?#.ytContentMetadataViewModelBadge:has-text(Auto-dubbed)
 ! Comment by specific user (Base level) 
 www.youtube.com##ytd-comment-thread-renderer:has(> #comment-container > ytd-comment-view-model > #body > #author-thumbnail > #author-thumbnail-button[aria-label="@ShayyTV"])
 
@@ -595,12 +595,12 @@ www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-s
 
 ! -- https://www.youtube.com/watch?v=j9gZYYOIG-M
 ! Description - How this was made - Auto-dubbed
-www.youtube.com##.ytwHowThisWasMadeSectionViewModelBodyHeader:nth-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):nth-last-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):has-text(Auto-dubbed):upward(how-this-was-made-section-view-model)
+www.youtube.com#?#.ytwHowThisWasMadeSectionViewModelBodyHeader:nth-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):nth-last-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):has-text(Auto-dubbed):upward(how-this-was-made-section-view-model)
 
 ! -- https://www.youtube.com/watch?v=PgxpzexpOwI
 ! Sponsored YouTube comment
-www.youtube.com##ytd-comment-thread-renderer:has(ytw-pinned-comment-badge-renderer):has(> #comment-container:has-text(/use (my )?code [\w“”]+ to get (.*)[$%]/i))
-m.youtube.com##ytm-comment-thread-renderer:has(ytw-pinned-comment-badge-renderer):has(> ytm-comment-renderer:has-text(/use (my )?code [\w“”]+ to get (.*)[$%]/i))
+www.youtube.com#?#ytd-comment-thread-renderer:has(ytw-pinned-comment-badge-renderer):has(> #comment-container:has-text(/use (my )?code [\w“”]+ to get (.*)[$%]/i))
+m.youtube.com#?#ytm-comment-thread-renderer:has(ytw-pinned-comment-badge-renderer):has(> ytm-comment-renderer:has-text(/use (my )?code [\w“”]+ to get (.*)[$%]/i))
 
 ! -- Livestream chat
 ! Chat top fans
