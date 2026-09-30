@@ -526,6 +526,10 @@ www.sqlservertutorial.net##[aria-label="Advertisement"]
 ! Header promo to join site after scrolling down
 www.tomshardware.com###skinnyBanner
 
+! == Tumblr ==
+! Left sidebar - Go Premium button
+www.tumblr.com##button[aria-label="Go Premium"]
+
 ! == Udemy ==
 ! -- https://www.udemy.com/
 ! Header promo banner
