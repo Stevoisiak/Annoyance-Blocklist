@@ -324,6 +324,11 @@ hevodata.com##.footer-cta-banner
 ! Quiz
 www.howtogeek.com##.vq
 
+! == IGN ==
+! -- https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games
+! Mid-article poll
+www.ign.com##.poll-view-trigger
+
 ! == Insight Software ==
 ! Override AI chat filter from Stevo's AI Blocklist
 central.insightsoftware.com#@##forethought-chat
