@@ -348,11 +348,11 @@ www.linux.org##.p-body-sidebar > div:has(> [href="https://adminapparel.com/"]) +
 
 ! == M365 Copilot ==
 ! Upgrade button in left sidebar
-m365.cloud.microsoft##.___1qpkefa:has([data-testid="upgrade-copilot"])
+copilot.cloud.microsoft,m365.cloud.microsoft##[data-testid="nav-footer-upsell"]
 ! Upsell at bottom of AI response
-m365.cloud.microsoft#?#[data-testid="copilot-message-div"] > .___1ce2hhi:has-text("Get help with all your work")
+copilot.cloud.microsoft,m365.cloud.microsoft#?#[data-testid="copilot-message-div"] > .___1ce2hhi:has-text("Get help with all your work")
 ! Tip dialogs (like promo for mobile app) 
-m365.cloud.microsoft##[role="dialog"][aria-label="Tips"]
+copilot.cloud.microsoft,m365.cloud.microsoft##[role="dialog"][aria-label="Tips"]
 
 ! == Microsoft ==
 ! -- https://www.microsoft.com/en-us
