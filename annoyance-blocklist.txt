@@ -373,6 +373,10 @@ learn.microsoft.com##li:has(> [data-bi-name="aiDisclaimer"])
 ! Header banner to download Teams for desktop
 teams.cloud.microsoft##[data-tid="banner-notification-id"]:has([data-tid="banner-notification-action-teamsClientDownloadBanner-0"])
 
+! == MinIO ==
+! Search bar - Animated search placeholders
+docs.min.io###search-form > #placeholder-overlay
+
 ! == MiniTool ==
 ! -- https://www.minitool.com/lib/unc-path.html
 ! Popup promo in bottom right
