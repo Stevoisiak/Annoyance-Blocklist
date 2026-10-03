@@ -195,7 +195,8 @@ www.bing.com###b_legalnotif
 !#if ext_ublock
 ||$uritransform=/order%3A/sort%3A/i,domain=gelbooru.com|rule34.us|rule34.xxx|safebooru.org
 ||$uritransform=/sort%3A/order%3A/i,domain=donmai.us|e621.net
-!#else
+!#endif
+!#if adguard && !adguard_app_ios
 ||$urltransform=/order%3A/sort%3A/i,domain=gelbooru.com|rule34.us|rule34.xxx|safebooru.org
 ||$urltransform=/sort%3A/order%3A/i,domain=donmai.us|e621.net
 !#endif
