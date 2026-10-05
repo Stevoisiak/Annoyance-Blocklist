@@ -191,6 +191,10 @@ arstechnica.com##.menu-item:has(> [href="https://arstechnica.com/ai-policy/"])
 ! Footer - "New" label by Terms
 www.bing.com###b_legalnotif
 
+! == Bluesky ==
+! Sidebar - Live event
+bsky.app##div[style="position: relative;"]:has(> [aria-label^="Live event happening now: "])
+
 ! == Booru Redirects ==
 !#if ext_ublock
 ||$uritransform=/order%3A/sort%3A/i,domain=gelbooru.com|rule34.us|rule34.xxx|safebooru.org
