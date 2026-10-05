@@ -252,7 +252,7 @@ fextralife.com##.community-section
 
 ! == Gelbooru ==
 ! Homepage streamer promo
-gelbooru.com##center:has(> [href="https://twitch.tv/nyudachi"])
+gelbooru.com##center:has([href="https://twitch.tv/nyudachi"])
 ! Sticky banner about popunder ads
 gelbooru.com###motd
 gelbooru.com##+js(set-cookie, motd, 1)
