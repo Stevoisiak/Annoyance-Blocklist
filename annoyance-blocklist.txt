@@ -227,6 +227,8 @@ codeberg.org###tou-announcement:has([href="https://blog.codeberg.org/protecting-
 destructoid.com##.menu-item:has(> [href="https://newsletter.destructoid.com/"])
 ! GTA 6 section
 destructoid.com###home-gta6bible-embed
+! Poll on article page
+destructoid.com##.census-poll
 
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
