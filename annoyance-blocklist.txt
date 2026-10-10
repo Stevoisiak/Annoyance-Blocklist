@@ -309,6 +309,10 @@ www.google.com##[role="button"][aria-label="Share"]
 ! Promo text below search bar
 www.google.*##promo-middle-slot
 
+! == Hentai Haven ==
+! Ad when pausing video
+hentaihaven.xxx##video[playsinline] ~ div.absolute:has([aria-label="Advertisement"])
+
 ! == Hentai2Read ==
 ! Header "Games" buttons
 hentai2read.com##.btn-default[href="https://hive.arf.dev/r/mEYRhw"]
