@@ -222,6 +222,10 @@ claude.ai#?#[data-alert-band-wrapper="true"]:has(button:has-text(Get desktop app
 ! Header banner for TOS change about AI repos
 codeberg.org###tou-announcement:has([href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"])
 
+! == Crunchyroll ==
+! Homepage floating button promoting anime
+crunchyroll.com##.fab--KTRZa
+
 ! == Destructoid ==
 ! Header - Newsletter
 destructoid.com##.menu-item:has(> [href="https://newsletter.destructoid.com/"])
