@@ -614,6 +614,11 @@ www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 www.youtube.com#?#.ytContentMetadataViewModelBadge:has-text(Auto-dubbed)
 ! Comment by specific user (Base level) 
 www.youtube.com##ytd-comment-thread-renderer:has(> #comment-container > ytd-comment-view-model > #body > #author-thumbnail > #author-thumbnail-button[aria-label="@ShayyTV"])
+! "In this video" button in player for timeline (celebrities)
+www.youtube.com##.ytp-chapter-container:has(> .ytp-chapter-title > [title="View timeline"])
+m.youtube.com##.ytwPlayerTimeDisplayPlayerBarActionContainer:has(> [aria-label="In this video"])
+! "People mentioned" in description
+m.youtube.com,www.youtube.com##yt-video-attributes-section-view-model:has(.ytVideoAttributeViewModelImageSquare):has([aria-label="Learn more"])
 
 ! -- https://m.youtube.com/watch?v=0iVlSNpq8i8 (mobile)
 ! Header - Open App button when logged out
