@@ -482,6 +482,12 @@ www.reddit.com###nudge-to-crosspost-dialog
 ! Mobile ad in post comments
 www.reddit.com##li:has(ad-event-tracker)
 
+! -- https://www.reddit.com/r/youtube/comments/1wk1xg9/comment/pc552ym/?context=1
+! Comment from blocked user
+! * TODO: Remove extra threadline
+! * TODO: Remove "more replies" if all comments are blocked or children of blocked comment. 
+www.reddit.com##[slot="commentMeta"]:has([icon-name="block"]):upward(shreddit-comment)
+
 ! -- https://www.reddit.com/user/Stevoisiak/
 ! Promote button below post
 www.reddit.com##[name="PromotePostButton_PromB1"]
