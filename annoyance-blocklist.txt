@@ -631,6 +631,8 @@ www.youtube.com##ytd-comment-thread-renderer:has(ytw-comment-image-attachment-vi
 ! -- https://m.youtube.com/watch?v=0iVlSNpq8i8 (mobile)
 ! Header - Open App button when logged out
 m.youtube.com##.mobile-topbar-header-sign-in-button:has([aria-label="Open App"])
+! Mobile video hashtags
+m.youtube.com##.slim-video-metadata-information-inline-badge badge-shape
 
 ! -- https://www.youtube.com/watch?v=lLWEXRAnQd0
 ! Quiz below video description
