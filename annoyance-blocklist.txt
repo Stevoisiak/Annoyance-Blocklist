@@ -574,6 +574,10 @@ www.udemy.com##section[aria-label="Marketing notification from Udemy"]
 ! Subscription promo block in middle of page (logged in)
 www.udemy.co##[data-testid="pp-upsell-banner"]
 
+! == Vice ==
+! Header - Go Ad Free button
+www.vice.com##.wp-block-savage-platform-theme-language-picker > button:first-child[style="background: rgb(255, 255, 255); color: rgb(0, 0, 0); border-width: medium; border-style: none; border-color: currentcolor; border-image: none; font-weight: bold; cursor: pointer; margin-right: 15px; padding: 4px 16px; border-radius: 4px;"]
+
 ! == Visual Studio --
 code.visualstudio.com##.updates-banner
 
