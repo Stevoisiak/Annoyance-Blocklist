@@ -493,8 +493,8 @@ www.reddit.com##[slot="commentMeta"]:has([icon-name="block"]):upward(shreddit-co
 ! -- https://www.reddit.com/user/Stevoisiak/
 ! Promote button below post
 www.reddit.com##[name="PromotePostButton_PromB1"]
-! Sidebar - Settings
-www.reddit.com##.profile-settings-item:has([href="/avatar"])
+! Sidebar - Settings - Update Avatar
+www.reddit.com##[aria-label="Profile information"] [role="listitem"]:has([href="/avatar"])
 
 ! == Reuters ==
 ! -- https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/
