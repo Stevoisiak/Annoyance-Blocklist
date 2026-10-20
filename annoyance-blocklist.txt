@@ -239,6 +239,8 @@ destructoid.com##.census-poll
 discord.com##.channel__972a0:has([href="/store"])
 discord.com##.channel__972a0:has([href="/shop"])
 discord.com##.channel__972a0:has([href="/quest-home"])
+! Discord Nitro popup
+discord.com##[data-mana-component="popover"]:has([href="https://support.discord.com/hc/en-us/articles/39188406147479"])
 
 ! == eBay ==
 ! Navbar - eBay Live button
