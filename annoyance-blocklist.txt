@@ -305,7 +305,8 @@ gizmodo.com##[aria-label="Quick Links"] [href="https://gizmodo.com/tech/cryptocu
 
 ! == Google ==
 ! Upgrade button in header
-calendar.google.com,drive.google.com##.YGmjrf
+calendar.google.com##.nn5oJc:has(> .YGmjrf)
+drive.google.com##.Iu19ad-OkO9ve-yp5uJf-j:has(> .YGmjrf)
 docs.google.com###workspace-onegoogle-pep-container
 mail.google.com##[data-pep-id="global-pep-gmail"]
 
