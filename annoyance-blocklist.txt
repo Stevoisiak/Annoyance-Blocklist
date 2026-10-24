@@ -321,6 +321,11 @@ www.google.com##[role="button"][aria-label="Share"]
 ! Promo text below search bar
 www.google.*##promo-middle-slot
 
+! == Google Docs ==
+! -- https://docs.google.com/spreadsheets/u/0/
+! "Replace URL" suggestion when previewing a link in an open document
+docs.google.com##.appsElementsLinkPreviewBannerSuggestionBanner
+
 ! == Hentai Haven ==
 ! Ad when pausing video
 hentaihaven.xxx##video[playsinline] ~ div.absolute:has([aria-label="Advertisement"])
