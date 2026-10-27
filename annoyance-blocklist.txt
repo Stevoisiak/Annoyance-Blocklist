@@ -288,6 +288,7 @@ github.com##[data-component="ActionList.Item"]:has(> [href="/organizations/enter
 github.com##.marketing-banner
 ! Allow standalone GitHub Copilot
 @@||github.com/github-copilot/chat$xhr,1p
+@@|https://github.com/copilot^$document
 ! Allow Copilot Settings in user menu when using enterprise account
 github.com#@#.prc-ActionList-ActionListItem-So4vC:has(> [href="/settings/copilot"])
 github.com##body.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) .prc-ActionList-ActionListItem-So4vC:has(> [href="/settings/copilot"])
