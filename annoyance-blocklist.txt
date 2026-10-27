@@ -284,6 +284,8 @@ gelbooru.com##.noticeError:has([href="https://buymyshit.moneygrubbingwhore.com/?
 ! == GitHub ==
 ! Header - Profile menu > Try Enterprise 
 github.com##[data-component="ActionList.Item"]:has(> [href="/organizations/enterprise_plan?ref_cta=Start%2520a%2520trial&ref_loc=user_drawer_side_panel&ref_page=Header+Avatar"])
+! Right sidebar - Promos
+github.com##.marketing-banner
 ! Allow standalone GitHub Copilot
 @@||github.com/github-copilot/chat$xhr,1p
 ! Allow Copilot Settings in user menu when using enterprise account
