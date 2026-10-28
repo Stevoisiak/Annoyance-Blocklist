@@ -191,6 +191,9 @@ arrow.apache.org###pst-back-to-top
 ! == Ars Technica ==
 ! Footer - AI Policy
 arstechnica.com##.menu-item:has(> [href="https://arstechnica.com/ai-policy/"])
+! Unwanted articles
+arstechnica.com##article#card-2178795
+arstechnica.com##div.col-span-2:has(> article#card-2178795)
 
 ! == Bing ==
 ! -- https://www.bing.com/search?q=test
