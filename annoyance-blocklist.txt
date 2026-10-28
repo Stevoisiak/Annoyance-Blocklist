@@ -32,6 +32,7 @@ futurism.com##.recurrent-newsletter-block
 gamebillet.com##.alert-box-flexible:has(#newsletter-subscribe-block)
 hevodata.com###multi-type-downloadable-resource-exit-intent-backdrop
 hevodata.com##.under-hero-guide-banner
+influxdata.com##.pos-signup-bg
 qz.com##.my-8.w-full
 stardock.com##.subscribe
 tecmint.com###custom_html-12
