@@ -243,6 +243,12 @@ destructoid.com###home-gta6bible-embed
 ! Poll on article page
 destructoid.com##.census-poll
 
+! -- https://www.destructoid.com/modern-warfare-4-cutting-seoul-crush-footage/
+! Mid-article newsletter
+destructoid.com##.wp-block-separator:has(+ .has-text-align-center.wp-block-paragraph [href="https://newsletter.destructoid.com/subscribe"])
+destructoid.com##.has-text-align-center.wp-block-paragraph:has([href="https://newsletter.destructoid.com/subscribe"])
+destructoid.com##.has-text-align-center.wp-block-paragraph:has([href="https://newsletter.destructoid.com/subscribe"]) + .wp-block-separator
+
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
 discord.com##.channel__972a0:has([href="/store"])
