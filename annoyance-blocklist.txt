@@ -8,7 +8,6 @@ freefrontend.com##.adblock-notice
 
 ! == Cookies ==
 auth.opera.com##.modal-type-cookie-consent
-crunchyroll.com##.erc-anonymous-consent
 hevodata.com##.cookie-consent-anchor
 
 ! == Generic ==
@@ -111,9 +110,6 @@ www.vectorsolutions.com##.social
 www.virtusa.com##.social-links
 ! -- https://www.yahoo.com/news/
 www.yahoo.com###footer > div:has([href="https://x.com/yahoonews"])
-
-! Footer (logged in)
-crunchyroll.com##[class^="footer-socials--"]
 
 ! Google preferred source
 androidpolice.com##.w-google-addus-btn
@@ -232,8 +228,13 @@ claude.ai#?#[data-alert-band-wrapper="true"]:has(button:has-text(Get desktop app
 codeberg.org###tou-announcement:has([href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"])
 
 ! == Crunchyroll ==
+! -- https://www.crunchyroll.com/ (logged in)
 ! Homepage floating button promoting anime
 crunchyroll.com##.fab--KTRZa
+! Social media links in footer
+crunchyroll.com##[class^="footer-socials--"]
+! Cookie notice
+crunchyroll.com##.erc-anonymous-consent
 
 ! == Destructoid ==
 ! Header - Newsletter
