@@ -191,6 +191,15 @@ arstechnica.com##.menu-item:has(> [href="https://arstechnica.com/ai-policy/"])
 arstechnica.com##article#card-2178795
 arstechnica.com##div.col-span-2:has(> article#card-2178795)
 
+! == Asus ==
+! -- https://rog.asus.com/us/articles/guides/what-cpu-does-your-pc-have-heres-how-to-check/
+! Sidebar - Share article
+rog.asus.com##[class*="ArticlePost__social__"]
+! Footer - Social links
+rog.asus.com##[class^="Footer__socialList__"]
+! Footer - Newsletter
+rog.asus.com##[class^="Footer__crmWrapper__"]
+
 ! == Bing ==
 ! -- https://www.bing.com/search?q=test
 ! Footer - "New" label by Terms
