@@ -518,6 +518,8 @@ www.reddit.com###post-overflow-brandAffiliate
 www.reddit.com###nudge-to-crosspost-dialog
 ! Mobile ad in post comments
 www.reddit.com##li:has(ad-event-tracker)
+! Header - Open in app (mobile, after scrolling down)
+www.reddit.com###sticky-community-header-open-app-cta
 
 ! -- https://www.reddit.com/r/youtube/comments/1wk1xg9/comment/pc552ym/?context=1
 ! Comment from blocked user
