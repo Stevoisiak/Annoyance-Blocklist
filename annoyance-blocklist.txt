@@ -504,6 +504,10 @@ www.reddit.com##.py-xs.mt-2xs
 ! Home feed posts mentioning trump
 www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="Trump"])
 www.reddit.com##[pagetype="home"] article:has(> shreddit-post[post-title*="Trump"]) + hr
+! App post
+www.reddit.com##[pagetype="home"] article:has(> shreddit-post[recommendation-source="dev_platform"])
+www.reddit.com##[pagetype="home"] article:has(> shreddit-post[recommendation-source="dev_platform"]) + hr
+
 
 ! -- https://www.reddit.com/r/uBlockOrigin/
 ! Ad in sidebar
