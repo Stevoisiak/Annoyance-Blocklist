@@ -668,15 +668,17 @@ m.youtube.com#?#.ytmChipsShelfViewModelChipsShelfTitle:has-text(Explore more top
 www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 
 ! -- Video page
+! Player - Video speed - 3x (premium)
+www.youtube.com##.ytp-variable-speed-panel-preset-button-wrapper:has(.ytp-variable-speed-panel-premium-upsell-icon)
+! Player - "In this video" button for timeline (celebrities)
+www.youtube.com##.ytp-chapter-container:has(> .ytp-chapter-title > [title="View timeline"])
+! Description - "People mentioned"
+m.youtube.com,www.youtube.com##yt-video-attributes-section-view-model:has(.ytVideoAttributeViewModelImageSquare):has([aria-label="Learn more"])
 ! Auto-dubbed label on related video
 www.youtube.com#?#.ytContentMetadataViewModelBadge:has-text(Auto-dubbed)
 ! Comment by specific user (Base level) 
 www.youtube.com##ytd-comment-thread-renderer:has(> #comment-container > ytd-comment-view-model > #body > #author-thumbnail > #author-thumbnail-button[aria-label="@ShayyTV"])
-! "In this video" button in player for timeline (celebrities)
-www.youtube.com##.ytp-chapter-container:has(> .ytp-chapter-title > [title="View timeline"])
 m.youtube.com##.ytwPlayerTimeDisplayPlayerBarActionContainer:has(> [aria-label="In this video"])
-! "People mentioned" in description
-m.youtube.com,www.youtube.com##yt-video-attributes-section-view-model:has(.ytVideoAttributeViewModelImageSquare):has([aria-label="Learn more"])
 ! Comment with gif
 www.youtube.com##ytd-comment-thread-renderer:has(ytw-comment-image-attachment-view-model)
 
