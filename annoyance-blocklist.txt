@@ -686,9 +686,7 @@ www.youtube.com##ytd-comment-thread-renderer:has(ytw-comment-image-attachment-vi
 ! Video or channel by user
 www.youtube.com##ytd-video-renderer:has(.ytd-channel-name > [href="/@ShayyTV"])
 www.youtube.com##ytd-channel-renderer:has(.channel-link[href="/@ShayyTV"])
-
-! -- https://m.youtube.com/results?search_query=deltarune
-! Video or channel by user
+! Video or channel by user (mobile)
 m.youtube.com##ytm-video-with-context-renderer:has(.ytw-channel-thumbnail-with-link-renderer > [href="/@ShayyTV"])
 m.youtube.com##ytm-compact-channel-renderer:has([href="/@ShayyTV"])
 
@@ -707,7 +705,7 @@ www.youtube.com###ytd-watch-info-text .yt-formatted-string:has(+ .yt-formatted-s
 
 ! -- https://www.youtube.com/watch?v=j9gZYYOIG-M
 ! Description - How this was made - Auto-dubbed
-www.youtube.com#?#.ytwHowThisWasMadeSectionViewModelBodyHeader:nth-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):nth-last-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):has-text(Auto-dubbed):upward(how-this-was-made-section-view-model)
+m.youtube.com,www.youtube.com#?#.ytwHowThisWasMadeSectionViewModelBodyHeader:nth-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):nth-last-child(1 of .ytwHowThisWasMadeSectionViewModelBodyHeader):has-text(Auto-dubbed):upward(how-this-was-made-section-view-model)
 
 ! -- https://www.youtube.com/watch?v=PgxpzexpOwI
 ! Sponsored YouTube comment
