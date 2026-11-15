@@ -681,6 +681,8 @@ www.youtube.com##ytd-comment-thread-renderer:has(> #comment-container > ytd-comm
 m.youtube.com##.ytwPlayerTimeDisplayPlayerBarActionContainer:has(> [aria-label="In this video"])
 ! Comment with gif
 www.youtube.com##ytd-comment-thread-renderer:has(ytw-comment-image-attachment-view-model)
+! #1 hyped badge below related video
+www.youtube.com##.ytContentMetadataViewModelMetadataRowWrap:has([d^="M10.373 1.52a1 1 0 00-.542.805l-.397 4.653-3.53 3.055a1 1 0 00.266"])
 
 ! -- https://www.youtube.com/results?search_query=deltarune
 ! Video or channel by user
