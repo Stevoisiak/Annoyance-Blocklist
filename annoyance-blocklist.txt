@@ -552,6 +552,10 @@ reuters.com##[data-testid="ContextWidget"]:has([role="tablist"] > [data-testid="
 rule34.xxx##li:has(> [href="https://rule34.xxx/index.php?page=icame"])
 ! Shirt promo banner
 rule34.xxx##.horizontalFlexWithMargins:has(img[src="https://rule34.xxx/images/rule34_merch.jpg"])
+! "Filter AI posts" option
+! * Only hide if option has already been enabled
+rule34.xxx###displayOptions:has(#chkFilterAI[checked])
+
 ! Author promo on image page
 rule34.xxx###pv_leaderboard
 
