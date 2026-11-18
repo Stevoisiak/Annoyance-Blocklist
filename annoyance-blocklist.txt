@@ -289,10 +289,6 @@ fextralife.com##.community-section
 ! Rule34 promo
 gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
 ||gelbooru.com/r34.mp4$media,1p
-! Author fanbox
-gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"])
-gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br
-gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 
 ! -- https://gelbooru.com/
 ! Homepage streamer promo
@@ -304,6 +300,12 @@ gelbooru.com###static-index > div:has(> [onclick="javascript:addEngine('gelbooru
 ! Sticky banner about popunder ads
 gelbooru.com###motd
 gelbooru.com##+js(set-cookie, motd, 1)
+
+! -- https://gelbooru.com/index.php?page=post&s=view&id=15167158
+! Author promo banner
+gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"])
+gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br
+gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
 
 ! -- Favorites
 ! Header bar message
