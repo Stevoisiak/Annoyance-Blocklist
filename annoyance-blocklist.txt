@@ -688,6 +688,8 @@ www.youtube.com##ytd-comment-thread-renderer:has(> #comment-container > ytd-comm
 m.youtube.com##.ytwPlayerTimeDisplayPlayerBarActionContainer:has(> [aria-label="In this video"])
 ! Comment with gif
 www.youtube.com##ytd-comment-thread-renderer:has(ytw-comment-image-attachment-view-model)
+! "Experiencing interruptions?" notice during initial video buffer
+www.youtube.com##snackbar-container:has-text(Experiencing interruptions?)
 
 ! -- https://www.youtube.com/watch?v=0t_KZ4JZ1_U
 ! Join button
