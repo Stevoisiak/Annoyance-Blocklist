@@ -286,11 +286,6 @@ www.facebook.com##[role="link"][href^="https://l.facebook.com/l.php?u=https%3A%2
 fextralife.com##.community-section
 
 ! == Gelbooru ==
-! Homepage streamer promo
-gelbooru.com##center:has([href="https://twitch.tv/nyudachi"])
-! Sticky banner about popunder ads
-gelbooru.com###motd
-gelbooru.com##+js(set-cookie, motd, 1)
 ! Rule34 promo
 gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
 ||gelbooru.com/r34.mp4$media,1p
@@ -298,6 +293,17 @@ gelbooru.com##[href="https://rule34.us/index.php?r=posts/index"]
 gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"])
 gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br
 gelbooru.com##.mainBodyPadding > a:has(> [alt="artist credits"]) + br + br
+
+! -- https://gelbooru.com/
+! Homepage streamer promo
+gelbooru.com##center:has([href="https://twitch.tv/nyudachi"])
+! Disable adblock message
+gelbooru.com###static-index > div:has(> [onclick="javascript:addEngine('gelbooru','png','0')"]) {visibility: hidden}
+
+! -- https://gelbooru.com/index.php?page=post&s=list&tags=all
+! Sticky banner about popunder ads
+gelbooru.com###motd
+gelbooru.com##+js(set-cookie, motd, 1)
 
 ! -- Favorites
 ! Header bar message
