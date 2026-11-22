@@ -572,6 +572,10 @@ rule34.xxx###pv_leaderboard
 ! Header nav - Patreon
 safebooru.org##li:has(> [href="https://patreon.com/booru"])
 
+! == Sankaku Complex ==
+! Header promo for Sankaku Infinite
+chan.sankakucomplex.com###news-ticker
+
 ! == Stack Overflow ==
 ! Header
 stackoverflow.com##li:has(> [aria-controls="products-popover"])
