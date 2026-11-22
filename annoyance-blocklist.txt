@@ -575,6 +575,12 @@ safebooru.org##li:has(> [href="https://patreon.com/booru"])
 ! == Sankaku Complex ==
 ! Header promo for Sankaku Infinite
 chan.sankakucomplex.com###news-ticker
+! Footer - "Hide Advertisements" premium promo
+chan.sankakucomplex.com###sc1 > div:has(> [href="https://get.sankaku.plus"])
+
+! -- https://chan.sankakucomplex.com/en/posts?tags=rating%3Ag
+! Premium promo
+chan.sankakucomplex.com##.premium-carousel
 
 ! == Stack Overflow ==
 ! Header
