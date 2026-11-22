@@ -690,7 +690,7 @@ m.youtube.com#?#.ytmChipsShelfViewModelChipsShelfTitle:has-text(Explore more top
 ! "Looking for something different?" dialog
 www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 ! Videos by title
-m.youtube.com,www.youtube.com##:is(ytd-rich-item-renderer,ytm-rich-item-renderer):has(.ytLockupMetadataViewModelTitle:is([aria-label~="Calli"],[aria-label*="expecting this"i]))
+m.youtube.com,www.youtube.com##:is(ytd-rich-item-renderer,ytm-rich-item-renderer):has(.ytLockupMetadataViewModelTitle:is([aria-label~="Calli"],[aria-label~="Calliope"],[aria-label*="expecting this"i]))
 ! Videos by channel
 www.youtube.com##ytd-rich-item-renderer:has(.ytAttributedStringLink[href="/@MrBeastGaming"])
 
