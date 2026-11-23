@@ -397,10 +397,6 @@ www.howtogeek.com##.vq
 ! Mid-article poll
 www.ign.com##[data-cy="poll-view-trigger"]
 
-! == Insight Software ==
-! Override AI chat filter from Stevo's AI Blocklist
-central.insightsoftware.com#@##forethought-chat
-
 ! == Internet Archive ==
 ! -- https://web.archive.org/web/20260000000000*/https://www.intel.com/
 ! "From the Labs" button
