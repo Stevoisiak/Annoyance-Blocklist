@@ -692,7 +692,9 @@ www.youtube.com##ytd-rich-item-renderer:has(.ytd-feed-nudge-renderer)
 ! Videos by title
 m.youtube.com,www.youtube.com##:is(ytd-rich-item-renderer,ytm-rich-item-renderer):has(.ytLockupMetadataViewModelTitle:is([aria-label~="Calli"],[aria-label~="Calliope"],[aria-label*="expecting this"i],[aria-label*="thought of this"i]))
 ! Videos by channel
-www.youtube.com##ytd-rich-item-renderer:has(.ytAttributedStringLink[href="/@MrBeastGaming"])
+! * Homepage = ytd-rich-item-renderer
+! * Search page = ytd-video-renderer
+www.youtube.com##:is(ytd-rich-item-renderer,ytd-video-renderer):has([href="/@daaashr"],[href="/@MrBeastGaming"])
 
 ! -- Video page
 ! Player - Playback Speed - 3x (premium)
