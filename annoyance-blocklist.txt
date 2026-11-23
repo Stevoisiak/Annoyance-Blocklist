@@ -203,6 +203,10 @@ rog.asus.com##[class^="Footer__socialList__"]
 rog.asus.com##[class^="Footer__crmWrapper__"]
 
 ! == Bing ==
+! -- https://www.bing.com/
+! Quiz hover popup
+www.bing.com##.hp_trivia_outer
+
 ! -- https://www.bing.com/search?q=test
 ! Footer - "New" label by Terms
 www.bing.com###b_legalnotif
