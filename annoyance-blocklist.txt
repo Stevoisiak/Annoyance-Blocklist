@@ -579,6 +579,8 @@ safebooru.org##li:has(> [href="https://patreon.com/booru"])
 ! == Sankaku Complex ==
 ! Header promo for Sankaku Infinite
 chan.sankakucomplex.com###news-ticker
+! Navbar - Sankaku Plus promos
+chan.sankakucomplex.com##li:has(> [href^="https://get.sankaku.plus"])
 ! Footer - "Hide Advertisements" premium promo
 chan.sankakucomplex.com###sc1 > div:has(> [href="https://get.sankaku.plus"])
 
