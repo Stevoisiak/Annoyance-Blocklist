@@ -584,7 +584,7 @@ chan.sankakucomplex.com###sc1 > div:has(> [href="https://get.sankaku.plus"])
 
 ! -- https://chan.sankakucomplex.com/en/posts?tags=rating%3Ag
 ! Premium promo
-chan.sankakucomplex.com##.premium-carousel
+chan.sankakucomplex.com##.premium-carousel.premium-carousel:has([href="https://get.sankaku.plus/"])
 
 ! == Stack Overflow ==
 ! Header
