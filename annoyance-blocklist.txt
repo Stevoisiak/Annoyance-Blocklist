@@ -330,6 +330,10 @@ github.com##body.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) .
 github.com#@#[data-testid="side-nav-menu-item-COPILOT"]
 github.com##.logged-in:not(:has(.GlobalNav [title^=" Users managed by "])) [data-testid="side-nav-menu-item-COPILOT"]
 
+! --  https://github.com/Stevoisiak/Stevos-AI-Blocklist/pull/13
+! Promo for new PR overview beta
+github.com##button[aria-label="Try the Overview page"]
+
 ! -- https://github.com/dashboard
 ! Trending Repositories
 github.com###feed-item-0[data-hydro-view*="TRENDING_REPOSITORY"]
