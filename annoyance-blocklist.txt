@@ -577,8 +577,10 @@ rule34.xxx###pv_leaderboard
 safebooru.org##li:has(> [href="https://patreon.com/booru"])
 
 ! == Sankaku Complex ==
-! Header promo for Sankaku Infinite
+! Header - Promo for Sankaku Infinite
 chan.sankakucomplex.com###news-ticker
+! Header - News carousel
+chan.sankakucomplex.com##.topbar-carousel
 ! Navbar - Sankaku Plus promos
 chan.sankakucomplex.com##li:has(> [href^="https://get.sankaku.plus"])
 ! Footer - "Hide Advertisements" premium promo
