@@ -267,11 +267,13 @@ destructoid.com##.has-text-align-center.wp-block-paragraph:has([href="https://ne
 
 ! == Discord ==
 ! Nitro, Shop, & Quests tabs
-discord.com##.channel__972a0:has([href="/store"])
-discord.com##.channel__972a0:has([href="/shop"])
-discord.com##.channel__972a0:has([href="/quest-home"])
+discord.com##.channel_zln_tS:has([href="/store"])
+discord.com##.channel_zln_tS:has([href="/shop"])
+discord.com##.channel_zln_tS:has([href="/quest-home"])
 ! Discord Nitro popup
 discord.com##[data-mana-component="popover"]:has([href="https://support.discord.com/hc/en-us/articles/39188406147479"])
+! Active Now - Friend playing quest
+discord.com##[class^="nowPlayingColumn_"] [class^="questCardContextMenuTrigger_"]
 
 ! == eBay ==
 ! Navbar - eBay Live button
