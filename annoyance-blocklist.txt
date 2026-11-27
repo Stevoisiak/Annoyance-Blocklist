@@ -715,6 +715,8 @@ m.youtube.com,www.youtube.com##:is(ytd-rich-item-renderer,ytm-rich-item-renderer
 ! * Homepage = ytd-rich-item-renderer
 ! * Search page = ytd-video-renderer
 www.youtube.com##:is(ytd-rich-item-renderer,ytd-video-renderer):has([href="/@daaashr"],[href="/@MrBeastGaming"],[href="/@NeurosCookieJar"])
+! Poll community posts
+m.youtube.com##ytm-rich-section-renderer:has(yt-poll-renderer)
 
 ! -- Video page
 ! Player - Playback Speed - 3x (premium)
