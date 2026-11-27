@@ -369,6 +369,8 @@ www.google.*##promo-middle-slot
 ! -- https://docs.google.com/spreadsheets/u/0/
 ! "Replace URL" suggestion when previewing a link in an open document
 docs.google.com##.appsElementsLinkPreviewBannerSuggestionBanner
+! Dialog to install Google Docs Offline
+docs.google.com##.docs-homescreen-offline-missingextensiondialog
 
 ! == Hentai Haven ==
 ! Ad when pausing video
