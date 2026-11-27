@@ -595,6 +595,11 @@ chan.sankakucomplex.com###sc1 > div:has(> [href="https://get.sankaku.plus"])
 ! Premium promo
 chan.sankakucomplex.com##.premium-carousel:has([href="https://get.sankaku.plus/"])
 
+! -- https://chan.sankakucomplex.com/en/posts/YEa7o5md0am
+! Reactions below post
+chan.sankakucomplex.com##[id^="posts-reaction-"]
+chan.sankakucomplex.com##.action-row > [id^="emoji-button-"]
+
 ! == Stack Overflow ==
 ! Header
 stackoverflow.com##li:has(> [aria-controls="products-popover"])
