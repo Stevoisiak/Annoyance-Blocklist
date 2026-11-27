@@ -588,6 +588,8 @@ chan.sankakucomplex.com###news-ticker
 chan.sankakucomplex.com##.topbar-carousel
 ! Navbar - Sankaku Plus promos
 chan.sankakucomplex.com##li:has(> [href^="https://get.sankaku.plus"])
+! News carousel mid-gallery
+chan.sankakucomplex.com##.news-carousel
 ! Footer - "Hide Advertisements" premium promo
 chan.sankakucomplex.com###sc1 > div:has(> [href="https://get.sankaku.plus"])
 
