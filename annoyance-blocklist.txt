@@ -20,7 +20,7 @@ www.gamesradar.com,www.windowscentral.com##.kwizly-game-wrapper
 www.pcgamer.com##div:has(> .kwizly-game-wrapper)
 ! Sign-in with Google dialogs
 ! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
-||accounts.google.com/gsi/*$xhr,script,3p
+||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
 
 ! == Newsletter ==
 art-week.com##button.fixed:has(.lucide-mail)
